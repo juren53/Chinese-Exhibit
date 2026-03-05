@@ -62,4 +62,4 @@ What I could not have known was how durable those graveyard hours would prove to
 - **Map-of-the-Exhibit.jpg** — Newspaper floor plan of the exhibition maze with artifact photographs, captioned "entrance-to-exit view of the exhibition maze"
 - **A-Chime-of-Bronze-Bells.png** — Exhibit catalog page featuring the Western Zhou Dynasty bronze bells
 - **Trimmed_Chinese_Bells.mp3** — Audio recording of the Chinese bells that played on continuous loop throughout the exhibit
-- **VIDEO_Chinese-Exhibit-at-the-Nelson-Atkins-1975.mkv** — Video footage of visitors at the exhibit, including a delegation from Denver
+- **VIDEO_Chinese-Exhibit-at-the-Nelson-Atkins-1975.mkv** — Video footage of visitors at the exhibit, including a delegation from Denver Museum of Nature and Science
