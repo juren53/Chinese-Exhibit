@@ -5,7 +5,7 @@ In the spring of 1975, I was a twenty-something economics student at the Univers
 
 That spring, the Nelson Gallery became the second American stop for *The Exhibition of Archaeological Finds of the People's Republic of China* — a sweeping, landmark show of ancient treasures that was making its way around the world. Washington had seen it first. San Francisco would see it last. Kansas City, somehow, was in between. For a city that sometimes struggled to believe it belonged on the world stage, this was a very big deal.
 
-The exhibit arrived in the context of a country still processing a seismic diplomatic shift. Richard Nixon had opened the door to China just four years earlier, and Americans were gripped by a fascination with a civilization that had been, for a generation, almost entirely invisible to Western eyes. These bronze vessels, jade ornaments, silk textiles, and ancient artifacts were not merely beautiful objects — they were dispatches from another world, arriving at a moment when the distance between that world and ours was, for the first time in decades, beginning to close.
+The exhibit arrived in the context of the Cold War and a country still processing a seismic diplomatic shift. Richard Nixon had opened the door to China just four years earlier, and Americans were gripped by a fascination with a civilization that had been, for a generation, almost entirely invisible to Western eyes. The bronze vessels, jade ornaments, silk textiles, and ancient artifacts were not merely beautiful objects — they were dispatches from another world, arriving at a moment when the distance between that world and ours was, for the first time in decades, beginning to close.
 
 I learned about the job the way young people always learn about jobs — through friends. Word spread among students at UMKC that the museum was bringing on extra staff to handle the extraordinary volume of visitors the exhibit was drawing. The tip was vague — just that there was work available, cleaning the exhibit after hours. I figured it was worth showing up.
 
@@ -27,7 +27,7 @@ My work was unglamorous but necessary. The exhibit ran from April 20 to June 7 �
 
 Each of us carried a small container of salmon-colored paint for the touch-ups. From day one, the supervisor's instructions were clear and unhurried: take your time, don't rush, keep your brush dry, and err on the side of applying too little rather than too much. And then, with particular emphasis: do not — under any circumstances — spill paint on the red carpet. The salmon walls could be touched up. The carpet could not.
 
-The total transformation of the Museum for the exhibit was itself something to behold. From the outside, the Nelson Gallery looked exactly as it always had — its neoclassical facade unchanged, stately and familiar. But the moment you stepped through the front doors, you were somewhere else entirely. Temporary walls had carved the grand interior into a new series of spaces, a deliberate architecture designed to slow visitors down, to direct the eye, to create a sense of passage through something ancient and considered. The galleries were painted in a warm salmon color and underfoot ran deep red carpet — together they created an atmosphere that felt intentional and enveloping, nothing like the cool marble and neutral tones of the permanent collection. The curators had not simply hung artifacts on existing walls. They had built a new world inside the old one.
+The total transformation of the Museum for the exhibit was itself something to behold. From the outside, the Nelson Gallery looked exactly as it always had — its neoclassical facade unchanged, stately and familiar. But the moment you stepped through the front doors, you were somewhere else entirely. Temporary walls had carved the grand interior into a new series of small galleries that were connected like a maze. The galleries were painted in a warm salmon color and underfoot ran deep red carpet — together they created an atmosphere that felt intentional and enveloping, nothing like the cool marble and neutral tones of the permanent collection. The curators had not simply hung artifacts on existing walls. They had built a new world inside the old one.
 
 And then there was the sound.
 
@@ -45,6 +45,21 @@ On the graveyard shift, the Galloping Horse was ours. No crowds, no jostling, no
 
 That was the unexpected gift of those hours. The cleaning, the dry-brush touch-ups, the long stretches of quiet work through a sleeping museum — all of it was secondary to those moments of unobstructed encounter with objects that the rest of the city was lining up for hours to glimpse.
 
+The exhibit also brought an unexpected side effect to our lives at home. Once word spread among family and friends that we lived two blocks from this once-in-a-generation show, our very small one-bedroom apartment became a convenient headquarters for a series of little entourages — relatives, old friends, acquaintances — who came from far and wide to see it. People drove in from Denver, flew in from the coasts, materialized from places we had not expected. They all wanted to see the Chinese Exhibit, and they all knew someone who lived on its doorstep. We were happy to oblige, and we had a wonderful time sharing it all with them. Among the more quietly appreciated amenities we offered: restroom facilities, conveniently located and entirely free of the long lines that greeted visitors at the museum.
+
 I was too young then to fully reckon with what I was standing inside. I knew it was significant. I knew that these objects had crossed the Pacific carrying the weight of a civilization and arrived in the American heartland at a hinge point in history. But I was twenty-something, the pay was modest, and by five in the morning I was mostly thinking about breakfast.
 
 What I could not have known was how durable those graveyard hours would prove to be. Nearly fifty years on, I can still hear those bells.
+
+---
+
+## Archival Materials
+
+- **The-Exhibit-Poster.png** — Official exhibit poster featuring the Galloping Horse, April 20–June 7, 1975
+- **The-Prancing-Horse.jpg** — Cover of the exhibit program, *The Exhibition of Archaeological Finds of the People's Republic of China*
+- **Lines-at-the-Museum.jpg** — Exterior photograph of the Nelson Gallery-Atkins Museum showing crowds queued outside beneath the exhibit banner
+- **Crowds-at-the-Museum.jpg** — Interior photograph showing the packed galleries with American and Chinese flags and calligraphy banners
+- **Map-of-the-Exhibit.jpg** — Newspaper floor plan of the exhibition maze with artifact photographs, captioned "entrance-to-exit view of the exhibition maze"
+- **A-Chime-of-Bronze-Bells.png** — Exhibit catalog page featuring the Western Zhou Dynasty bronze bells
+- **Trimmed_Chinese_Bells.mp3** — Audio recording of the Chinese bells that played on continuous loop throughout the exhibit
+- **VIDEO_Chinese-Exhibit-at-the-Nelson-Atkins-1975.mkv** — Video footage of visitors at the exhibit, including a delegation from Denver
