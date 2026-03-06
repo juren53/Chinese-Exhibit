@@ -15,7 +15,7 @@ She was pleasant but deliberate, and it was clear from the first few minutes tha
 
 She had seen my application and noted that I had some interior painting experience from summer jobs. She told me that touch-up painting of the exhibit walls would be part of the work — and then she asked me a question I was not expecting: Did I know how to paint with a dry brush?
 
-I told her what I had always been taught: never paint with a dry brush. You load the brush properly, you maintain a wet edge, you work methodically. A dry brush leaves streaks and misses.
+I told her what I had been taught: never paint with a dry brush. You load the brush properly, you maintain a wet edge, you work methodically. A dry brush leaves streaks and misses.
 
 She nodded as if she had expected that answer. Then she explained. This was different. The exhibit walls needed to look perfect when the doors opened each morning, which meant any paint applied during the night had to be fully dry before the first visitors arrived. The technique she was describing was deliberate and precise — barely any paint on the brush, just enough to cover a smudge or a fingerprint, working carefully into the surface so that it dried quickly and left no trace of having been applied at all. It was, in its way, a form of restoration. The goal was invisibility.
 
