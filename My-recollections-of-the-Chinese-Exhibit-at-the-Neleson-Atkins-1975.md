@@ -13,7 +13,7 @@ I arrived at the Nelson employee entrance and said I was there for an interview.
 
 She was pleasant but deliberate, and it was clear from the first few minutes that she was not simply filling a janitorial slot. She asked about my studies, my plans, where I saw myself going. There was a subtext to her questions that I could feel even as a young man not especially practiced at reading subtext: she was deciding whether I understood what I was being asked to be part of. At one point she stopped and said it plainly. *This is not just another night shift janitorial job. This is the Chinese Exhibit at the Nelson-Atkins.*
 
-She had seen my application and noted that I had some painting experience from summer jobs. She told me that touch-up painting of the exhibit walls would be part of the work — and then she asked me a question I was not expecting: Did I know how to paint with a dry brush?
+She had seen my application and noted that I had some interior painting experience from summer jobs. She told me that touch-up painting of the exhibit walls would be part of the work — and then she asked me a question I was not expecting: Did I know how to paint with a dry brush?
 
 I told her what I had always been taught: never paint with a dry brush. You load the brush properly, you maintain a wet edge, you work methodically. A dry brush leaves streaks and misses.
 
