@@ -27,7 +27,7 @@ Touch up painting started immediately when we arrived each night so we could con
 
 The total transformation of the Museum for the exhibit was itself something to behold. From the outside, the Nelson Gallery looked exactly as it always had — its neoclassical facade unchanged, stately and familiar. But the moment you stepped through the front doors, you were somewhere else entirely. Temporary exhibit walls had carved the grand interior into a new series of small galleries that were connected like a maze. The galleries were painted in a warm salmon color and underfoot ran deep red carpet — together they created something wholly immersive — warm and enveloping, a world apart from the cool marble and neutral tones of the permanent collection. The curators had not simply hung artifacts on existing walls. They had built a new world inside the old one.
 
-And then there was the sound.
+And then there were the sounds that accompanied the exhibit.
 
 A recording of Chinese bronze bells played on a continuous loop throughout the exhibit, 24x7 — deep, resonant, exotic tones that seemed to come from the walls themselves, from the air, from somewhere just out of reach. During the day, with the galleries full of visitors moving in hushed clusters, the bells wove through the murmur of voices and the shuffle of feet to create something genuinely immersive. People were transported. You could see it on their faces.
 
