@@ -29,7 +29,7 @@ The total transformation of the Museum for the exhibit was itself something to b
 
 And then there was the sound.
 
-A recording of Chinese bronze bells played on a continuous loop throughout the exhibit — deep, resonant tones that seemed to come from the walls themselves, from the air, from somewhere just out of reach. During the day, with the galleries full of visitors moving in hushed clusters, the bells wove through the murmur of voices and the shuffle of feet to create something genuinely immersive. People were transported. You could see it on their faces.
+A recording of Chinese bronze bells played on a continuous loop throughout the exhibit, 24x7 — deep, resonant tones that seemed to come from the walls themselves, from the air, from somewhere just out of reach. During the day, with the galleries full of visitors moving in hushed clusters, the bells wove through the murmur of voices and the shuffle of feet to create something genuinely immersive. People were transported. You could see it on their faces.
 
 On the graveyard shift, it was something else altogether.
 
