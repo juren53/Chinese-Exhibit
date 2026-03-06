@@ -35,7 +35,7 @@ But on the graveyard shift, the sound of the bells was something else altogether
 
 Alone in those galleries at two or three in the morning, trying to brush out finger prints and smudges while ancient bronzes caught the low exhibition lighting and the bells rang on, the effect was not transcendence so much as a quiet eeriness. The artifacts did not seem diminished by the absence of an audience — if anything, they felt more present. A bronze vessel cast three thousand years ago did not require my admiration to be remarkable. It simply was what it was, patient and indifferent, outlasting dynasties and oceans and whatever small concerns occupied an economics student in 1975.
 
-But the eeriness was only part of it. The other part — the part that made the graveyard shift genuinely worthwhile — was that we got to really see the exhibit.
+But the eeriness was only part of it. The other part — the part that made the graveyard shift worth more than they were paying me — was that we got to really see the exhibit.
 
 The centerpiece of the show was the Galloping Horse, a Han Dynasty bronze of breathtaking lightness and motion, a horse in full stride with one hoof balanced impossibly on the back of a swallow in flight. It was on the cover of the exhibit program. During public hours it drew such crowds that getting close to it was a small ordeal, and if you managed to push through, you found yourself too near to take it in properly — too close for perspective, surrounded by other people straining for the same impossible view. You came away with an impression more than an experience.
 
