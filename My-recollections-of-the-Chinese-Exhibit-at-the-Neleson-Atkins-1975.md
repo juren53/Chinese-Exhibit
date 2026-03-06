@@ -45,7 +45,7 @@ The exhibit also brought an unexpected side effect to our lives at home. Once wo
 
 I may have been too young then to fully reckon with what I was standing inside, but I knew it was significant. I knew that these objects had crossed the Pacific carrying the weight of a civilization and arrived in the American heartland at a hinge point in history. But I was twenty-something, the pay was modest, and by five in the morning I was mostly thinking about breakfast and sleep.
 
-What I could not have known was how durable those graveyard hours would prove to be. Nearly fifty years on when I think back on those days and nights at the Nelson-Atkins, I can still hear those bronze bells.
+What I could not have known was how durable those graveyard hours would prove to be. Nearly fifty years on when I think back on those days and nights at the Nelson-Atkins, I can still hear those bronze bells and see the Galloping Horse at the Nelson-Atkins.
 
 ---
 
