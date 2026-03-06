@@ -31,7 +31,7 @@ And then there was the sound.
 
 A recording of Chinese bronze bells played on a continuous loop throughout the exhibit, 24x7 — deep, resonant tones that seemed to come from the walls themselves, from the air, from somewhere just out of reach. During the day, with the galleries full of visitors moving in hushed clusters, the bells wove through the murmur of voices and the shuffle of feet to create something genuinely immersive. People were transported. You could see it on their faces.
 
-On the graveyard shift, it was something else altogether.
+But on the graveyard shift, the sound of the bells was something else altogether.
 
 Alone in those galleries at two or three in the morning, trying to brush out finger prints and smudges while ancient bronzes caught the low exhibition lighting and the bells rang on, the effect was not transcendence so much as a quiet eeriness. The artifacts did not seem diminished by the absence of an audience — if anything, they felt more present. A bronze vessel cast three thousand years ago did not require my admiration to be remarkable. It simply was what it was, patient and indifferent, outlasting dynasties and oceans and whatever small concerns occupied an economics student in 1975.
 
