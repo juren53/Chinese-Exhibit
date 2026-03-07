@@ -14,9 +14,9 @@ The exhibit arrived in early April 1975, at a moment when the country was still 
 
 I learned about the job the way young people always learn about jobs — through friends. Word spread among students at UMKC that the museum was bringing on extra staff to handle the extraordinary volume of visitors the exhibit was drawing. The tip was vague — just that there was work available at the Nelson.  I jumped at the possibility of working at the museum I lived next to, and seeing what it was like behind the scenes. I rushed to fill out an employment application and I got an interview within a few days.
 
-At the interview, I was greeted by a dignified, nicely dressed woman. She introduced herself, looked me over with calm, appraising eyes, and said simply: follow me. For the next two to three hours, she interviewed me while we did light gardening on the south side of the museum — deadheading flowers, pulling the occasional weed, moving through the well-maintained garden at an unhurried pace while she asked her questions. It was the most unusual job interview I have ever had, before or since.
+When I arrived for the interview, I was greeted by a dignified, nicely dressed woman. She introduced herself, looked me over with calm, appraising eyes, and said simply: follow me. For the next two to three hours, she interviewed me while we did light gardening on the south side of the museum — deadheading flowers, pulling the occasional weed, moving through the well-maintained garden at an unhurried pace while she asked her questions. It was the most unusual job interview I have ever had, before or since.
 
-She was pleasant but deliberate, and it was clear from the first few minutes that she was not simply filling a janitorial slot. She asked about my studies, my plans, where I saw myself going. There was a subtext to her questions that I could feel even as a young man not especially practiced at reading subtext: she was deciding whether I understood what I was being asked to be part of. At one point she stopped and said it plainly. *This is not just another night shift janitorial job. This is the Chinese Exhibit at the Nelson-Atkins.*
+She was pleasant but deliberate, and it was clear from the first few minutes that she was not simply filling a janitorial slot. She asked about my studies, my plans, where I saw myself going. There was a subtext to her questions that I could feel even as a young man not especially practiced at reading subtext: she was deciding whether I understood what I was being asked to be part of. At one point she stopped and said it plainly. *You know, this is not just another night shift janitorial job. This is the Chinese Exhibit at the Nelson-Atkins.*
 
 She had seen my application and noted that I had some interior painting experience from summer jobs. She told me that touch-up painting of the exhibit walls would be part of the work — and then she asked me a question I was not expecting: Did I know how to paint with a dry brush?
 
@@ -40,7 +40,7 @@ But on the graveyard shift, the sound of the bells was something else altogether
 
 Alone in those galleries at two or three in the morning, trying to brush out fingerprints and smudges while ancient bronzes caught the low exhibition lighting and the bells rang on, the effect was not transcendence so much as a quiet eeriness. The artifacts did not seem diminished by the absence of an audience — if anything, they felt more present. A bronze vessel cast three thousand years ago did not require my admiration to be remarkable. It simply was what it was, patient and indifferent, outlasting dynasties and oceans and whatever small concerns occupied an economics student in 1975 working the night shift at the museum.
 
-But the eeriness was only part of it. The other part — the part that made the graveyard shift worth more than they were paying me — was that we got to really see the exhibit.
+But the eeriness was only part of it. The other part — the part that made the graveyard shift worth more than they were paying me — was that I got to really see the exhibit.
 
 The Exhibit consisted of a vast collection of incredible artifacts, but the centerpiece of the show was the Galloping Horse, a Han Dynasty bronze of breathtaking lightness and motion, a horse in full stride with one hoof balanced impossibly on the back of a swallow in flight. The Galloping Horse graced the cover of the Exhibit program. During public hours it drew such crowds that getting close to it was a small ordeal, and if you managed to push through, you found yourself too near to take it in properly — too close for perspective, surrounded by other people straining for the same impossible view. You came away with an impression more than an experience.
 
@@ -48,9 +48,9 @@ But on the graveyard shift, the Galloping Horse was ours. No crowds, no jostling
 
 The exhibit also brought an unexpected side effect to our lives at home. Once word spread among family and friends that we lived two blocks from this once-in-a-generation show, our very small one-bedroom apartment became a convenient headquarters for a series of little entourages — relatives, old friends, acquaintances — who came from far and wide to see it. People drove in from all over the country, flew in from the coasts, materialized from places we had not expected. They all wanted to see the Chinese Exhibit, and they all knew someone who lived on its doorstep. We were happy to oblige, and we had a wonderful time sharing it all with them. It was all part of the cultural block party that we were lucky enough to be living in.  For those making the pilgrimage, our place served a dual purpose — a staging area before the exhibit and a quiet refuge after with facilities comfortably located and free of the long lines at the museum.
 
-I may have been too young then to fully reckon with what I was standing inside, but I knew it was significant. I knew that these objects had crossed the Pacific carrying the weight of a civilization and arrived in the American heartland at a hinge point in history. But I was twenty-something, the pay was modest, and by five in the morning I was exhausted and mostly thinking about breakfast and sleep.
+I was too young then to fully grasp the scope of the event, but the significance was not lost on me. I knew that these objects had crossed the Pacific carrying the weight of a civilization and arrived in the American heartland at a hinge point in history. But I was twenty-something, the pay was modest, and by five in the morning I was exhausted and mostly thinking about breakfast and sleep.
 
-What I could not have known was how durable those graveyard hours would prove to be. Nearly fifty years on, when I think back on those nights at the Museum, I can still hear those bronze bells and see the Galloping Horse in the Chinese Exhibit at the Nelson-Atkins.
+What I could not have known was how enduring those graveyard hours would prove to be. Nearly fifty years on, when I think back on those nights at the Museum, I can still hear the bronze bells echoing through the galleries and see the Galloping Horse in the Chinese Exhibit at the Nelson-Atkins.
 
 ---
 
@@ -64,3 +64,7 @@ What I could not have known was how durable those graveyard hours would prove to
 - **A-Chime-of-Bronze-Bells.png** — Exhibit catalog page featuring the Western Zhou Dynasty bronze bells
 - **Trimmed_Chinese_Bells.mp3** — Audio recording of the Chinese bells that played on continuous loop throughout the exhibit
 - **VIDEO_Chinese-Exhibit-at-the-Nelson-Atkins-1975.mkv** — Video footage of visitors at the exhibit, including a delegation from Denver Museum of Nature and Science
+
+---
+
+*Last updated: 2026-03-07 · 11:02*
