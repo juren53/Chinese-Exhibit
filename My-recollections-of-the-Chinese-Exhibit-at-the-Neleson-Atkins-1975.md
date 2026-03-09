@@ -6,7 +6,7 @@ by Jim U'Ren
 2026-03-08
 
 
-In the spring of 1975, I was a twenty-something economics student at the University of Missouri–Kansas City, living with my wife in an apartment on Rockhill Road, two blocks north of one of the finest art museums in the country. The Nelson Gallery-Atkins Museum was just a short walk from our door — I passed it every day on my way to classes. I have always been drawn to museums and libraries. To me, they feel like monuments to human accomplishment and what we may yet become, and visiting one is more like a pilgrimage than a casual outing. To have a museum of this caliber in the neighborhood was a dream come true. When word came in early 1975 that an international Exhibit was coming to the Nelson-Atkins, my feelings were mixed — excited, but wary of the crowds it might bring to the neighborhood in terms of parking, congestion, etc. Those worries proved to be unfounded and faded fast. In fact, we had no idea how fortunate we were — to be in the right place at the right time, to be part of an international cultural block party, and to get a chance to work behind the scenes at the Nelson-Atkins.
+In the spring of 1975, I was a twenty-something economics student at the University of Missouri–Kansas City, living with my wife in an apartment on Rockhill Road, two blocks north of one of the finest art museums in the country. The Nelson Gallery-Atkins Museum was just a short walk from our door — I passed it every day on my way to classes. I have always been drawn to museums and libraries. To me, they feel like monuments to human accomplishment and what we may yet become, and visiting one is never a casual outing — it is a return to a wellspring of mind and soul. To have a museum of this caliber in the neighborhood was a dream come true. When word came in early 1975 that an international Exhibit was coming to the Nelson-Atkins, my feelings were mixed — excited, but wary of the crowds it might bring to the neighborhood in terms of parking, congestion, etc. Those worries proved to be unfounded and faded fast. In fact, we had no idea how fortunate we were — to be in the right place at the right time, to be part of an international cultural block party, and to get a chance to work behind the scenes at the Nelson-Atkins.
 
 That spring, the Nelson Gallery became the second American stop for *The Exhibition of Archaeological Finds of the People's Republic of China* — a sweeping, landmark show of cultural treasures from the East that was on the final leg of a world tour. In the US, Washington had seen it first. San Francisco would see it last. Kansas City was scheduled to be a seven-week stop between coasts, and the community was buzzing with anticipation.
 
@@ -67,4 +67,4 @@ What I could not have known was how enduring those graveyard hours would prove t
 
 ---
 
-*Last updated: 2026-03-08 · 00:36*
+*Last updated: 2026-03-09 · 04:01*
