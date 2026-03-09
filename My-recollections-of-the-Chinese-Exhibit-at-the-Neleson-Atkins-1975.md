@@ -50,7 +50,7 @@ The cultural block party that the Exhibit became also found its way into our liv
 
 Looking back on those wonderful seven weeks in the spring of 1975, I was probably too young then to fully grasp the scope of the event, but the significance was not lost on me. I knew that the priceless cultural artifacts had crossed the Pacific carrying the weight of a civilization and arrived in the American heartland at a hinge point in history. But I was twenty-something, the pay was modest, and by five in the morning I was exhausted and mostly thinking about breakfast and sleep.
 
-What I could not have known was how enduring those graveyard hours would prove to be. After more than fifty years, when I think back on those nights at the Museum, I can still hear the bronze bells echoing through the galleries and see the graceful yet powerful shape of the Flying Horse of Gansu in the Chinese Exhibit at the Nelson-Atkins Museum of Art.
+What I could not have known was how enduring those graveyard hours would prove to be. After more than fifty years, when I close my eyes and think back on those nights at the Museum, I can still hear the bronze bells echoing through the galleries and see the lithe, powerful figure of the Flying Horse of Gansu in the Chinese Exhibit at the Nelson-Atkins Museum of Art.
 
 ---
 
