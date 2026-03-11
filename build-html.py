@@ -138,7 +138,7 @@ html = f'''<!DOCTYPE html>
 
   <div class="acknowledgments">
     <h2>Acknowledgments</h2>
-    <p>The author wishes to thank Tar Laver, Senior Archivist at the Nelson-Atkins Museum of Art, and all the staff archivists who provided archival materials for this piece.</p>
+    <p>The author wishes to thank Tara Laver, Senior Archivist at the Nelson-Atkins Museum of Art, and all the staff archivists who provided archival materials for this piece.</p>
   </div>
 
 </div>

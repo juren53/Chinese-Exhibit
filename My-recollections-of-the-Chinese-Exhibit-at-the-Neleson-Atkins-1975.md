@@ -69,7 +69,7 @@ What I could not have known was how enduring those graveyard hours would prove t
 
 ## Acknowledgments
 
-The author wishes to thank Tar Laver, Senior Archivist at the Nelson-Atkins Museum of Art, and all the staff archivists who provided archival materials for this piece.
+The author wishes to thank Tara Laver, Senior Archivist at the Nelson-Atkins Museum of Art, and all the staff archivists who provided archival materials for this piece.
 
 ---
 
