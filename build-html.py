@@ -136,6 +136,11 @@ html = f'''<!DOCTYPE html>
 
   </div>
 
+  <div class="acknowledgments">
+    <h2>Acknowledgments</h2>
+    <p>The author wishes to thank Tar Laver, Senior Archivist at the Nelson-Atkins Museum of Art, and all the staff archivists who provided archival materials for this piece.</p>
+  </div>
+
 </div>
 </body>
 </html>
