@@ -8,7 +8,7 @@ by Jim U'Ren
 
 In the spring of 1975, I was a twenty-something economics student at the University of Missouri–Kansas City, living with my wife in an apartment on Rockhill Road, two blocks north of one of the finest art museums in the country. The Nelson Gallery-Atkins Museum was just a short walk from our door — I passed it every day on my way to classes. To have a museum of this caliber in the neighborhood was a dream come true. When word came in early 1975 that an international Exhibit was coming to the Nelson-Atkins, my feelings were mixed — excited, but wary of the crowds it might bring to the neighborhood in terms of parking, congestion, etc. Those worries proved to be unfounded and faded fast. In fact, we had no idea how fortunate we were — to be in the right place at the right time, to be part of an international cultural block party, and to get a chance to work behind the scenes at the Nelson-Atkins.
 
-That spring, the Nelson Gallery became the second American stop for *The Exhibition of Archaeological Finds of the People's Republic of China* — a sweeping, landmark show of cultural treasures from the East that was on the final leg of a world tour. In the US, Washington had seen it first. San Francisco would see it last. Kansas City was scheduled to be a seven-week stop between coasts, and the community was buzzing with anticipation.
+That spring, the Nelson Gallery became the second American stop for *The Exhibition of Archaeological Finds of the People's Republic of China* — a sweeping, landmark show of cultural treasures from the East that was on the final leg of a world tour. In the US, Washington had seen it first. San Francisco would be the last American stop. Kansas City was scheduled to be a seven-week stop between coasts, and the community was buzzing with anticipation.
 
 The Exhibit arrived in early April 1975, at the height of the Cold War and at a moment when the country was still processing a historic diplomatic shift. Official US Foreign Policy towards China was changing, and Americans were gripped by a fascination with a civilization that had been, for a generation, mostly invisible to Western eyes. The ancient artifacts, jade ornaments, silk textiles, and bronze sculptures that made up the Exhibit were not merely beautiful objects — they were dispatches from another world, arriving at a moment when the distance between worlds was, for the first time in decades, beginning to close.
 
@@ -73,4 +73,4 @@ The author wishes to thank Tara Laver, Senior Archivist at the Nelson-Atkins Mus
 
 ---
 
-*Last updated: 2026-03-10 · 22:15*
+*Last updated: 2026-03-27 · 09:00*
