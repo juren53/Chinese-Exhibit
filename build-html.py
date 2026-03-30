@@ -84,27 +84,27 @@ html = f'''<!DOCTYPE html>
     <div class="gallery">
       <figure>
         <img src="The-Exhibit-Poster.png" alt="Official exhibit poster featuring the Galloping Horse">
-        <figcaption>Official exhibit poster featuring the Galloping Horse, April 20&ndash;June 7, 1975</figcaption>
+        <figcaption>Official exhibit poster featuring the Galloping Horse, April 20&ndash;June 7, 1975 (courtesy of Nelson-Atkins Museum of Art Archives)</figcaption>
       </figure>
       <figure>
         <img src="The-Prancing-Horse.jpg" alt="Cover of the exhibit program">
-        <figcaption>Cover of the exhibit program, <em>The Exhibition of Archaeological Finds of the People&#39;s Republic of China</em></figcaption>
+        <figcaption>Cover of the exhibit program, <em>The Exhibition of Archaeological Finds of the People&#39;s Republic of China</em> (courtesy of Nelson-Atkins Museum of Art Archives)</figcaption>
       </figure>
       <figure>
         <img src="Lines-at-the-Museum.jpg" alt="Crowds queued outside the Nelson Gallery-Atkins Museum">
-        <figcaption>Crowds queued outside the Nelson Gallery-Atkins Museum beneath the exhibit banner</figcaption>
+        <figcaption>Crowds queued outside the Nelson Gallery-Atkins Museum beneath the exhibit banner (courtesy of Nelson-Atkins Museum of Art Archives)</figcaption>
       </figure>
       <figure>
         <img src="Crowds-at-the-Museum.jpg" alt="Packed galleries inside the museum">
-        <figcaption>Inside the packed galleries with American and Chinese flags and calligraphy banners</figcaption>
+        <figcaption>Inside the packed galleries with American and Chinese flags and calligraphy banners (courtesy of Nelson-Atkins Museum of Art Archives)</figcaption>
       </figure>
       <figure>
         <img src="Map-of-the-Exhibit.jpg" alt="Newspaper floor plan of the exhibition maze">
-        <figcaption>Newspaper floor plan of the exhibition maze &mdash; &ldquo;entrance-to-exit view of the exhibition maze&rdquo;</figcaption>
+        <figcaption>Newspaper floor plan of the exhibition maze &mdash; &ldquo;entrance-to-exit view of the exhibition maze&rdquo; (courtesy of Nelson-Atkins Museum of Art Archives)</figcaption>
       </figure>
       <figure>
         <img src="A-Chime-of-Bronze-Bells.png" alt="Exhibit catalog page featuring Western Zhou Dynasty bronze bells">
-        <figcaption>Exhibit catalog page featuring the Western Zhou Dynasty bronze bells</figcaption>
+        <figcaption>Exhibit catalog page featuring the Western Zhou Dynasty bronze bells (courtesy of Nelson-Atkins Museum of Art Archives)</figcaption>
       </figure>
       <figure>
         <img src="Galloping-Horse.jpg" alt="The Galloping Horse, Han Dynasty bronze">
@@ -131,7 +131,7 @@ html = f'''<!DOCTYPE html>
         <source src="https://archive.org/download/chinese-exhibit-nelson-atkins-1975/VIDEO_Chinese-Exhibit-at-the-Nelson-Atkins-1975.mp4" type="video/mp4">
         Your browser does not support the video element.
       </video>
-      <p>Video footage of visitors at the exhibit, including a delegation from Denver Museum of Nature and Science. [video courtesy of Denver Museum of Nature and Science and PBS station KRMA, Denver, CO]</p>
+      <p>Video footage of visitors at the exhibit, including a delegation from Denver Museum of Nature and Science. [courtesy of Denver Museum of Nature &amp; Science, IV.MOV-703-3]</p>
     </div>
 
   </div>
