@@ -3,7 +3,7 @@
 ### Recollections of the Exhibition of Archaeological Finds of the People's Republic of China, Nelson Gallery-Atkins Museum, 1975
 
 by Jim U'Ren
-2026-03-29
+2026-03-30 · 09:21
 
 
 In the spring of 1975, I was a twenty-something economics student at the University of Missouri–Kansas City, living with my wife in an apartment on Rockhill Road, two blocks north of one of the finest art museums in the country. The Nelson Gallery-Atkins Museum was just a short walk from our door — I passed it every day on my way to classes. To have a museum of this caliber in the neighborhood was a dream come true. When word came in early 1975 that an international Exhibit was coming to the Nelson-Atkins, my feelings were mixed — excited, but wary of how the neighborhood would be affected by the anticipated crowds.  Those worries proved to be unfounded and faded fast. In fact, we had no idea how fortunate we were — to be in the right place at the right time, to witness something the whole city was turning out for, and to get a chance to work behind the scenes at the Nelson-Atkins.
