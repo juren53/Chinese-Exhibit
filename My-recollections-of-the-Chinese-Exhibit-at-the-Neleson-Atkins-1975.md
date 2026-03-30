@@ -56,14 +56,14 @@ What I could not have known was how enduring those graveyard hours would prove t
 
 ## Archival Materials
 
-- **The-Exhibit-Poster.png** — Official exhibit poster featuring the Galloping Horse, April 20–June 7, 1975
-- **The-Prancing-Horse.jpg** — Cover of the Exhibit program, *The Exhibition of Archaeological Finds of the People's Republic of China*
-- **Lines-at-the-Museum.jpg** — Exterior photograph of the Nelson Gallery-Atkins Museum showing crowds queued outside beneath the exhibit banner
+- **The-Exhibit-Poster.png** — Official exhibit poster featuring the Galloping Horse, April 20–June 7, 1975 (Nelson-Atkins Museum of Art Archives)
+- **The-Prancing-Horse.jpg** — Cover of the Exhibit program, *The Exhibition of Archaeological Finds of the People's Republic of China* (Nelson-Atkins Museum of Art Archives)
+- **Lines-at-the-Museum.jpg** — Exterior photograph of the Nelson Gallery-Atkins Museum showing crowds queued outside beneath the exhibit banner (Nelson-Atkins Museum of Art Archives)
 - **Crowds-at-the-Museum.jpg** — Interior photograph showing the packed galleries with American and Chinese flags and calligraphy banners
-- **Map-of-the-Exhibit.jpg** — Newspaper floor plan of the exhibition maze with artifact photographs, captioned "entrance-to-exit view of the exhibition maze"
-- **A-Chime-of-Bronze-Bells.png** — Exhibit catalog page featuring the Western Zhou Dynasty bronze bells
+- **Map-of-the-Exhibit.jpg** — Newspaper floor plan of the exhibition maze with artifact photographs, captioned "entrance-to-exit view of the exhibition maze" (Nelson-Atkins Museum of Art Archives)
+- **A-Chime-of-Bronze-Bells.png** — Exhibit catalog page featuring the Western Zhou Dynasty bronze bells (Nelson-Atkins Museum of Art Archives)
 - **Chinese_Bells.mp3** — Audio recording of Chinese bells similar to what was played at the Exhibit [courtesy of the Smithsonian Museum]
-- **VIDEO_Chinese-Exhibit-at-the-Nelson-Atkins-1975.mp4** — Video footage of visitors at the Exhibit, including a delegation from Denver Museum of Nature and Science. [video courtesy of Denver Museum of Nature and Science and PBS station KRMA, Denver, CO]
+- **VIDEO_Chinese-Exhibit-at-the-Nelson-Atkins-1975.mp4** — Video footage of visitors at the Exhibit, including a delegation from Denver Museum of Nature and Science. [Denver Museum of Nature & Science, IV.MOV-703-3]
 
 ---
 
