@@ -73,4 +73,4 @@ The author wishes to thank Tara Laver, Senior Archivist at the Nelson-Atkins Mus
 
 ---
 
-*Last updated: 2026-03-29*
+*Last updated: 2026-03-30 · 09:21*
