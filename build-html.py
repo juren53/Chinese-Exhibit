@@ -14,9 +14,13 @@ OUT = "docs/index.html"
 # ── Read source ──────────────────────────────────────────────────────────────
 text = Path(MD).read_text()
 
-# Extract "Last updated" timestamp from MD
-ts_match = re.search(r'Last updated: ([\d-]+ · [\d:]+)', text)
-timestamp = ts_match.group(1) if ts_match else ""
+# Extract "Last updated" timestamp from MD (captures everything between label and closing *)
+ts_match = re.search(r'\*Last updated: ([^*]+)\*', text)
+timestamp = ts_match.group(1).strip() if ts_match else ""
+
+# Extract authored date from MD (the bare date/datetime line near the top)
+authored_match = re.search(r'^(\d{4}-\d{2}-\d{2}[^\n]*)\s*$', text, re.MULTILINE)
+authored_date = authored_match.group(1).strip() if authored_match else ""
 
 # ── Extract essay body ───────────────────────────────────────────────────────
 # Keep lines between the opening header block and the first --- separator.
@@ -70,7 +74,7 @@ html = f'''<!DOCTYPE html>
 
   <h1>My Nights at the Museum</h1>
   <p class="subtitle">Recollections of the Exhibition of Archaeological Finds of the People&#39;s Republic of China, Nelson Gallery-Atkins Museum, 1975</p>
-  <p class="byline">by Jim U&#39;Ren &nbsp;&middot;&nbsp; March 07, 2026</p>
+  <p class="byline">by Jim U&#39;Ren &nbsp;&middot;&nbsp; {authored_date}</p>
 
 {body_html}
 
