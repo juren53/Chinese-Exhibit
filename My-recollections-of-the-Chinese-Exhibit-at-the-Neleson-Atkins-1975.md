@@ -10,7 +10,7 @@ In the spring of 1975, I was a twenty-something economics student at the Univers
 
 That spring, the Nelson Gallery became the second American stop for *The Exhibition of Archaeological Finds of the People's Republic of China* — a sweeping, landmark show of cultural treasures from the East that was on the final leg of a world tour. In the US, Washington had seen it first. San Francisco would be the last American stop. Kansas City was scheduled to be a seven-week engagement between coasts, and in the weeks leading up, the anticipation steadily grew.
 
-The much anticipated collection of Chinese cultural artifacts arrived in early April 1975, in the midst of the Cold War and at a moment when the country was still processing a historic diplomatic shift. Official US Foreign Policy towards China was changing, and Americans were gripped by a fascination with a civilization that had been, for a generation, mostly invisible to Western eyes. The ancient artifacts, jade ornaments, silk textiles, and bronze sculptures that made up the Exhibit were not merely beautiful objects — they were dispatches from another world, arriving at a moment when the distance between worlds was, for the first time in decades, beginning to close.
+The much anticipated collection of Chinese cultural artifacts arrived in early April 1975, in the midst of the Cold War and at a moment when the country was still processing a historic diplomatic shift. Official US Foreign Policy towards China was changing, and Americans were intrigued by a civilization that had been, for a generation, mostly invisible to Western eyes. The ancient artifacts, jade ornaments, silk textiles, and bronze sculptures that made up the Exhibit were not merely beautiful objects — they were dispatches from another world, arriving at a moment when the distance between worlds was, for the first time in decades, beginning to close.
 
 I learned about the job the way young people always learn about jobs — through friends. Word spread among students at UMKC that several weeks into the Exhibit run, the museum was bringing on extra staff to handle the extraordinary volume of visitors it was drawing. The tip was vague — just that there was work available at the Nelson. I jumped at the chance to work at the Museum I passed every day — and to see how the Museum operated on the inside. I rushed to fill out an employment application and I got an interview within a few days.
 
@@ -20,7 +20,7 @@ She was pleasant but deliberate, and it was clear from the start that this was n
 
 She had read through my application and noted that I had some interior painting experience from summer jobs. She told me that touch-up painting of the exhibit walls would be part of the work — and then she asked me a question I was not expecting: Did I know how to paint with a dry brush?
 
-I told her what I had been taught: never paint with a dry brush. I was taught to load the brush properly, to maintain a wet edge, to work methodically. A dry brush leaves streaks and misses.
+I told her what I had been taught: never paint with a dry brush. I was trained to load the brush properly, to maintain a wet edge, to work methodically. A dry brush leaves streaks and misses.
 
 She nodded as if she had expected that answer. Then she explained. This was different. The exhibit walls needed to look perfect when the doors opened each morning, but the large number of visitors were leaving marks, smudges and fingerprints on the walls of the galleries. Normal cleaning solutions did more harm than good. We needed to use paint to cover the traffic marks, but any paint applied during the night had to be fully dry before the first visitors arrived in the morning. The technique she was describing was deliberate and precise — with barely any paint on the brush, just enough to cover a smudge or a fingerprint, working carefully into the surface so that it dried quickly and left no trace of having been applied at all. It was, in its way, a form of restoration. The goal was invisibility.
 
@@ -73,4 +73,4 @@ The author wishes to thank Tara Laver, Senior Archivist at the Nelson-Atkins Mus
 
 ---
 
-*Last updated: 2026-04-01 · 03:44*
+*Last updated: 2026-04-01 · 04:09*
