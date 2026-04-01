@@ -3,12 +3,12 @@
 ### Recollections of the Exhibition of Archaeological Finds of the People's Republic of China, Nelson Gallery-Atkins Museum, 1975
 
 by Jim U'Ren
-2026-03-30 · 09:21
+2026-04-01 · 10:36
 
 
-In the spring of 1975, I was a twenty-something economics student at the University of Missouri–Kansas City, living with my wife in an apartment on Rockhill Road, two blocks north of one of the finest art museums in the country. The Nelson Gallery-Atkins Museum was just a short walk from our door — I passed it every day on my way to classes. To live next door to a museum of this caliber was for me a dream come true. When word came in early 1975 that an international Exhibit was coming to the Nelson-Atkins, my feelings were mixed — excited, but wary of how the neighborhood would be affected by the anticipated crowds.  Those worries proved to be unfounded and faded fast. In fact, we had no idea how fortunate we were — to be in the right place at the right time, to witness something the whole city was turning out for, and to get a chance to work behind the scenes at the Nelson-Atkins.
+In the spring of 1975, I was a twenty-something economics student at the University of Missouri–Kansas City, living with my wife in an apartment on Rockhill Road, two blocks north of one of the finest art museums in the country. The Nelson Gallery-Atkins Museum was just a short walk from our door — I passed it every day on my way to classes. To live next door to a museum of this stature was for me a dream come true. When word came in early 1975 that an international Exhibit was coming to the Nelson-Atkins, my feelings were mixed — excited, but wary of how the neighborhood would adjust to the anticipated crowds.  Those worries proved to be unfounded and faded fast. In fact, we had no idea how fortunate we were — to be in the right place at the right time, to witness a cultural event of historic significance, and to get a chance to work behind the scenes at the Nelson-Atkins.
 
-That spring, the Nelson Gallery became the second American stop for *The Exhibition of Archaeological Finds of the People's Republic of China* — a sweeping, landmark show of cultural treasures from the East that was on the final leg of a world tour. In the US, Washington had seen it first. San Francisco would be the last American stop. Kansas City was scheduled to be a seven-week engagement between coasts, and in the weeks leading up, the anticipation steadily grew.
+That spring, the Nelson Gallery became the second American stop for *The Exhibition of Archaeological Finds of the People's Republic of China* — a sweeping, landmark show of cultural treasures from the East that was on the final leg of a world tour. In the US, Washington had seen it first. San Francisco would be the last American stop. Kansas City was scheduled to be a seven-week engagement, and in the weeks leading up, the anticipation steadily grew.
 
 The much anticipated collection of Chinese cultural artifacts arrived in early April 1975, in the midst of the Cold War and at a moment when the country was still processing a historic diplomatic shift. Official US Foreign Policy towards China was changing, and Americans were intrigued by a civilization that had been, for a generation, mostly invisible to Western eyes. The ancient artifacts, jade ornaments, silk textiles, and bronze sculptures that made up the Exhibit were not merely beautiful objects — they were dispatches from another world, arriving at a moment when the distance between worlds was, for the first time in decades, beginning to close.
 
@@ -73,4 +73,4 @@ The author wishes to thank Tara Laver, Senior Archivist at the Nelson-Atkins Mus
 
 ---
 
-*Last updated: 2026-04-01 · 04:09*
+*Last updated: 2026-04-01 · 10:36*
