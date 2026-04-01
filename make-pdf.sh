@@ -1,6 +1,6 @@
 #!/bin/bash
 
-MDFILE="My-recollections-of-the-Chinese-Exhibit-at-the-Neleson-Atkins-1975.md"
+MDFILE="My-recollections-of-the-Chinese-Exhibit-at-the-Nelson-Atkins-1975.md"
 HTMLFILE="${MDFILE%.md}.html"
 PDFFILE="${MDFILE%.md}.pdf"
 
