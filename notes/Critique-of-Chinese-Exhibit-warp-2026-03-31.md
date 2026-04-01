@@ -61,7 +61,7 @@ The subtitle (line 3) is informational but long. Consider whether the subtitle n
 ### 8. The Archival Materials Section
 
 This is well-organized. Two minor notes:
-- The descriptions mix "Exhibit" and "exhibition" inconsistently. Pick one convention.
+- The usage of "Exhibit" (the thing/display) vs. "exhibition" (the event) is a valid distinction and is applied consistently throughout.
 - The courtesy attributions are clear and professional.
 
 ---
