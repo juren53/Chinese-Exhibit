@@ -2,7 +2,7 @@
 # Requirements: pandoc, Google Chrome, Ubuntu font installed on Windows
 
 $DIR = Split-Path -Parent $MyInvocation.MyCommand.Path
-$MDFILE = "My-recollections-of-the-Chinese-Exhibit-at-the-Neleson-Atkins-1975.md"
+$MDFILE = "My-recollections-of-the-Chinese-Exhibit-at-the-Nelson-Atkins-1975.md"
 $HTMLFILE = $MDFILE -replace '\.md$', '.html'
 $PDFFILE  = $MDFILE -replace '\.md$', '.pdf'
 $CSSFILE  = "pdf-style-windows.css"
