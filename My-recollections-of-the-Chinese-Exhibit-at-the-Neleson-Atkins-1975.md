@@ -50,7 +50,7 @@ The phenomenon of the Exhibition found its way into our home life too. Once word
 
 Looking back on those wonderful seven weeks in the spring of 1975, I was probably too young to fully grasp the historical significance of what I was witnessing — but I sensed something extraordinary was happening. I knew that the priceless cultural artifacts had crossed the Pacific bearing four thousand years of a civilization that many were seeing for the first time — and had arrived in the American heartland at a turning point in history. But I was twenty-something, the pay was modest, and by five in the morning I was exhausted and mostly thinking about breakfast and sleep.
 
-What I could not have known was how enduring those graveyard hours would prove to be. After more than fifty years, when I close my eyes and think back on those nights at the Museum, I can still hear the bronze bells echoing through the galleries and see the lithe, powerful figure of the Flying Horse of Gansu in the Chinese Exhibit at the Nelson-Atkins Museum of Art.
+What I could not have known was how enduring those graveyard hours would prove to be. After more than fifty years, when I close my eyes and think back on those nights at the Museum, I can still hear the bronze bells echoing through the galleries and see the lithe, powerful figure of the Flying Horse of Gansu. I am forever grateful for the memories the Nelson-Atkins Museum of Art gave me that spring of 1975.
 
 ---
 
@@ -73,4 +73,4 @@ The author wishes to thank Tara Laver, Senior Archivist at the Nelson-Atkins Mus
 
 ---
 
-*Last updated: 2026-04-01 · 01:28*
+*Last updated: 2026-04-01 · 02:19*
