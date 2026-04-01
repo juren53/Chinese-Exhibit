@@ -8,7 +8,7 @@ import subprocess
 import re
 from pathlib import Path
 
-MD  = "My-recollections-of-the-Chinese-Exhibit-at-the-Neleson-Atkins-1975.md"
+MD  = "My-recollections-of-the-Chinese-Exhibit-at-the-Nelson-Atkins-1975.md"
 OUT = "docs/index.html"
 
 # ── Read source ──────────────────────────────────────────────────────────────
