@@ -118,6 +118,10 @@ html = f'''<!DOCTYPE html>
         <img src="Chinese-Curator-w-Galloping-Horse.png" alt="Curator handling the Galloping Horse">
         <figcaption>A curator positions the Galloping Horse. Photo: Wang Yuguo / Xinhua News Agency</figcaption>
       </figure>
+      <figure>
+        <img src="50year-Nelson-Atkins-celebration.jpg" alt="50 Years On: Remembering The Exhibition of Archaeological Finds of the People's Republic of China">
+        <figcaption>Program announcement for &ldquo;50 Years On: Remembering The Exhibition of the Archaeological Finds of the People&#39;s Republic of China,&rdquo; Spencer Art Reference Library, Nelson-Atkins Museum of Art, April 10&ndash;June 2, 2025</figcaption>
+      </figure>
     </div>
 
     <div class="audio-section">
@@ -142,7 +146,7 @@ html = f'''<!DOCTYPE html>
 
   <div class="acknowledgments">
     <h2>Acknowledgments</h2>
-    <p>The author wishes to thank Tara Laver, Senior Archivist at the Nelson-Atkins Museum of Art, and all the staff archivists who provided archival materials for this piece.</p>
+    <p>This essay was inspired in part by the Nelson-Atkins Museum of Art&#39;s &ldquo;50 Years On: Remembering The Exhibition of the Archaeological Finds of the People&#39;s Republic of China&rdquo; program, held May 4, 2025, which the author attended. The author also wishes to thank Tara Laver, Senior Archivist at the Nelson-Atkins Museum of Art, and all the staff archivists who provided archival materials for this piece.</p>
   </div>
 
 </div>
