@@ -3,12 +3,12 @@
 ### Recollections of the Exhibition of Archaeological Finds of the People's Republic of China, Nelson Gallery-Atkins Museum, 1975
 
 by Jim U'Ren
-2026-04-02 · 10:52
+2026-04-02 · 11:14
 
 
 In the spring of 1975, I was a twenty-something economics student at the University of Missouri–Kansas City, living with my wife in an apartment on Rockhill Road, two blocks north of one of the finest art museums in the country. The Nelson Gallery-Atkins Museum was just a short walk from our door — I passed it every day on my way to classes. Living next door to a museum of this stature was for me a dream come true. When word came in early 1975 that an international Exhibit was coming to the Nelson-Atkins, my feelings were mixed — excited, but wary of how the neighborhood would adjust to the anticipated crowds.  Those worries proved unfounded. In fact, we had no idea how fortunate we were — to find ourselves two blocks from a once-in-a-generation show, to witness a cultural event of historic significance, and to get a chance to work behind the scenes at the Nelson-Atkins.
 
-That spring, the Nelson Gallery became the second American stop for *The Exhibition of Archaeological Finds of the People's Republic of China* — a sweeping, landmark show of cultural treasures from the East that was on the final leg of a world tour. After opening in Paris, the exhibit travelled to London, Vienna, Stockholm and Toronto. In the US, Washington had seen it first. San Francisco would be the last American stop. Kansas City was scheduled to be a seven-week engagement, and in the weeks leading up, the anticipation steadily grew.
+That spring, the Nelson Gallery became the second American stop for *The Exhibition of Archaeological Finds of the People's Republic of China* — a sweeping, landmark show of cultural treasures from the East. After opening in Paris, the exhibit travelled to London, Vienna, Stockholm and Toronto. In the US, Washington had seen it first. San Francisco would be the last American stop. Kansas City was scheduled to be a seven-week engagement, and in the weeks leading up, the anticipation steadily grew.
 
 The much anticipated collection of Chinese cultural artifacts arrived in early April 1975, in the midst of the Cold War and at a moment when the country was still processing a historic diplomatic shift. Official US Foreign Policy towards China was changing, and Americans were intrigued by a civilization that had been, for a generation, mostly invisible to Western eyes. The ancient artifacts, jade ornaments, silk textiles, and bronze sculptures that made up the Exhibit were not merely beautiful objects — they were dispatches from another world, arriving at a moment when the distance between worlds was, for the first time in decades, beginning to close.
 
@@ -26,7 +26,7 @@ She nodded as if she had expected that answer. Then she explained. This was diff
 
 I told her I thought I could do that. She seemed satisfied. I had the job. I was told to report at 9 p.m. the next evening and that I would be working 9 p.m. to 6 a.m. — the graveyard shift.
 
-Thousands of visitors filed through the galleries, and the crowds left their mark as crowds do. My task was to be part of a small team that moved through the galleries after closing, cleaning smudges from the temporary walls, touching up scuff marks, restoring the exhibit space to its intended state before the next day's crowds arrived.
+The crowds were so large people waited hours to get in, and they left their mark as crowds do. My task was to be part of a small team that moved through the galleries after closing, cleaning smudges from the temporary walls, touching up scuff marks, restoring the exhibit space to its intended state before the next day's crowds arrived.
 
 Touch-up painting started immediately when we arrived each night so we could conclude painting as soon as possible to allow time for the paint to dry. Each of us carried a small container of paint for the touch-ups. From day one, the supervisor's instructions were clear and concise: take your time, don't rush, keep your brush dry, and err on the side of applying too little rather than too much paint. And then, with particular emphasis: do not — under any circumstances — spill paint on the red carpet. The walls could be touched up. The carpet could not.
 
@@ -74,4 +74,4 @@ This essay was inspired in part by the Nelson-Atkins Museum of Art's "50 Years O
 
 ---
 
-*Last updated: 2026-04-02 · 10:52*
+*Last updated: 2026-04-02 · 11:14*
