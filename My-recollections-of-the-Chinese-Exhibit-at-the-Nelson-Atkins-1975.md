@@ -3,7 +3,7 @@
 ### Recollections of the Exhibition of Archaeological Finds of the People's Republic of China, Nelson Gallery-Atkins Museum, 1975
 
 by Jim U'Ren
-2026-04-02 · 15:04
+2026-04-02 · 15:28
 
 
 In the spring of 1975, I was a twenty-something economics student at the University of Missouri–Kansas City, living with my wife in an apartment on Rockhill Road, two blocks north of one of the finest art museums in the country. The Nelson Gallery-Atkins Museum was just a short walk from our door — I passed it every day on my way to classes. Living next door to a museum of this stature was for me a dream come true. When word came in early 1975 that an international Exhibit was coming to the Nelson-Atkins, my feelings were mixed — excited, but wary of how the neighborhood would adjust to the anticipated crowds.  Those worries proved unfounded. In fact, we had no idea how fortunate we were — to find ourselves two blocks from a once-in-a-generation show, to witness a cultural event of historic significance, and to get a chance to work behind the scenes at the Nelson-Atkins.
@@ -36,7 +36,7 @@ As you first stepped into the Museum Exhibit, you were greeted by the unique and
 
 But on the graveyard shift, the sound of the bells was something else altogether.
 
-Alone in the Exhibit galleries at two or three in the morning, trying to brush out fingerprints and smudges while ancient bronzes caught the low exhibition lighting and the bells rang on, the effect was not transcendence so much as a quiet eeriness. The artifacts did not seem diminished by the absence of an audience — if anything, they felt more present. A bronze vessel cast thousands of years before did not require my admiration to be remarkable. It simply was what it was, patient and indifferent, outlasting dynasties and oceans and whatever small concerns occupied an economics student in 1975 working the night shift at the Museum.
+Alone in the Exhibit galleries at two or three in the morning, brushing out fingerprints and smudges while ancient bronzes caught the low exhibition lighting and the bells rang on, the effect was not transcendence so much as a quiet eeriness. The artifacts did not seem diminished by the absence of an audience — if anything, they felt more present. A bronze vessel cast thousands of years before did not require my admiration to be remarkable. It simply was what it was, patient and indifferent, outlasting dynasties and oceans and whatever small concerns occupied an economics student in 1975 working the night shift at the Museum.
 
 But the eeriness was only part of it. The other part, the best part — the part that made the graveyard shift worth more than the pay — was that I got to really see and experience the Exhibit.
 
@@ -72,4 +72,4 @@ This essay was inspired in part by the Nelson-Atkins Museum of Art's "50 Years O
 
 ---
 
-*Last updated: 2026-04-02 · 15:04*
+*Last updated: 2026-04-02 · 15:28*
