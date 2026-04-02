@@ -3,7 +3,7 @@
 ### Recollections of the Exhibition of Archaeological Finds of the People's Republic of China, Nelson Gallery-Atkins Museum, 1975
 
 by Jim U'Ren
-2026-04-02 · 11:14
+2026-04-02 · 11:28
 
 
 In the spring of 1975, I was a twenty-something economics student at the University of Missouri–Kansas City, living with my wife in an apartment on Rockhill Road, two blocks north of one of the finest art museums in the country. The Nelson Gallery-Atkins Museum was just a short walk from our door — I passed it every day on my way to classes. Living next door to a museum of this stature was for me a dream come true. When word came in early 1975 that an international Exhibit was coming to the Nelson-Atkins, my feelings were mixed — excited, but wary of how the neighborhood would adjust to the anticipated crowds.  Those worries proved unfounded. In fact, we had no idea how fortunate we were — to find ourselves two blocks from a once-in-a-generation show, to witness a cultural event of historic significance, and to get a chance to work behind the scenes at the Nelson-Atkins.
@@ -42,7 +42,7 @@ Alone in the Exhibit galleries at two or three in the morning, trying to brush o
 
 But the eeriness was only part of it. The other part, the best part — the part that made the graveyard shift worth more than the pay — was that I got to really see and experience the Exhibit.
 
-The Exhibit consisted of a vast collection of incredible artifacts, but the centerpiece of the show was the Galloping Horse, a Han Dynasty bronze of breathtaking lightness and motion, a horse in full stride with one hoof balanced impossibly on the back of a swallow in flight. The Galloping Horse, also known as the Flying Horse of Gansu, graced the cover of the Exhibit program. During public hours it drew such crowds that getting close to it was no small feat, and if you managed to get close, you found yourself too near to take it in properly — too close for perspective, surrounded by other people straining for the same impossible view. You came away with an impression more than an experience.
+The Exhibit consisted of a vast collection of ancient artifacts, but the centerpiece of the show was the Galloping Horse, a Han Dynasty bronze of breathtaking lightness and motion, a horse in full stride with one hoof balanced impossibly on the back of a swallow in flight. The Galloping Horse, also known as the Flying Horse of Gansu, graced the cover of the Exhibit program. During public hours it drew such crowds that getting close to it was no small feat, and if you managed to get close, you found yourself too near to take it in properly — too close for perspective, surrounded by other people straining for the same impossible view. You came away with an impression more than an experience.
 
 But on the graveyard shift, the Galloping Horse was ours. No crowds, no jockeying for position, no roped perimeter of impatient patrons. You could stand back and let your eyes find the thing whole — the impossible balance of it, the sculptor's audacity in rendering speed and weightlessness in bronze. You could move around it, approach slowly, step back again. You could simply look, for as long as you wanted, in silence broken only by the bells. That was the unexpected gift of those hours at the Museum. The cleaning, the dry-brush touch-ups, the long stretches of quiet work through a sleeping Museum — all of it was secondary to those moments of unobstructed encounters with magnificent works of historical art that the world outside was lining up for hours to glimpse.
 
@@ -74,4 +74,4 @@ This essay was inspired in part by the Nelson-Atkins Museum of Art's "50 Years O
 
 ---
 
-*Last updated: 2026-04-02 · 11:14*
+*Last updated: 2026-04-02 · 11:28*
