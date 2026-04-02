@@ -64,13 +64,14 @@ What I could not have known was how enduring those graveyard hours would prove t
 - **A-Chime-of-Bronze-Bells.png** — Exhibit catalog page featuring the Western Zhou Dynasty bronze bells (courtesy of Nelson-Atkins Museum of Art Archives)
 - **Chinese_Bells.mp3** — Audio recording of Chinese bells similar to what was played at the Exhibit [courtesy of the Smithsonian Museum]
 - **VIDEO_Chinese-Exhibit-at-the-Nelson-Atkins-1975.mp4** — Video footage of visitors at the Exhibit, including a delegation from Denver Museum of Nature and Science. [courtesy of Denver Museum of Nature & Science, IV.MOV-703-3]
+- **50year-Nelson-Atkins-celebration.jpg** — Program announcement for "50 Years On: Remembering The Exhibition of the Archaeological Finds of the People's Republic of China," Spencer Art Reference Library, Nelson-Atkins Museum of Art, April 10–June 2, 2025
 
 ---
 
 ## Acknowledgments
 
-The author wishes to thank Tara Laver, Senior Archivist at the Nelson-Atkins Museum of Art, and all the staff archivists who provided archival materials for this piece.
+This essay was inspired in part by the Nelson-Atkins Museum of Art's "50 Years On: Remembering The Exhibition of the Archaeological Finds of the People's Republic of China" program, held May 4, 2025, which the author attended. The author also wishes to thank Tara Laver, Senior Archivist at the Nelson-Atkins Museum of Art, and all the staff archivists who provided archival materials for this piece.
 
 ---
 
-*Last updated: 2026-04-02 · 00:34*
+*Last updated: 2026-04-02 · 01:00*
