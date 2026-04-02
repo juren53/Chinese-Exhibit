@@ -111,10 +111,6 @@ html = f'''<!DOCTYPE html>
         <figcaption>Exhibit catalog page featuring the Western Zhou Dynasty bronze bells (courtesy of Nelson-Atkins Museum of Art Archives)</figcaption>
       </figure>
       <figure>
-        <img src="Galloping-Horse.jpg" alt="The Galloping Horse, Han Dynasty bronze">
-        <figcaption>The Galloping Horse &mdash; Han Dynasty bronze, the centerpiece of the exhibit</figcaption>
-      </figure>
-      <figure>
         <img src="Chinese-Curator-w-Galloping-Horse.png" alt="Curator handling the Galloping Horse">
         <figcaption>A curator positions the Galloping Horse. Photo: Wang Yuguo / Xinhua News Agency</figcaption>
       </figure>
@@ -146,7 +142,7 @@ html = f'''<!DOCTYPE html>
 
   <div class="acknowledgments">
     <h2>Acknowledgments</h2>
-    <p>This essay was inspired in part by the Nelson-Atkins Museum of Art&#39;s &ldquo;50 Years On: Remembering The Exhibition of the Archaeological Finds of the People&#39;s Republic of China&rdquo; program, held May 4, 2025, which the author attended. The author also wishes to thank Tara Laver, Senior Archivist at the Nelson-Atkins Museum of Art, and all the staff archivists who provided archival materials for this piece.</p>
+    <p>This essay was inspired in part by the Nelson-Atkins Museum of Art&#39;s &ldquo;50 Years On: Remembering The Exhibition of the Archaeological Finds of the People&#39;s Republic of China&rdquo; program, held May 4, 2025, which the author attended. The author wishes to thank Tara Laver, Senior Archivist at the Nelson-Atkins Museum of Art, and all the staff archivists who put together the program and provided archival materials for this piece.</p>
   </div>
 
 </div>
