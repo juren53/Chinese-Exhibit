@@ -3,7 +3,7 @@
 ### Recollections of the Exhibition of Archaeological Finds of the People's Republic of China, Nelson Gallery-Atkins Museum, 1975
 
 by Jim U'Ren
-2026-04-02 · 15:28
+2026-04-02 · 19:37
 
 
 In the spring of 1975, I was a twenty-something economics student at the University of Missouri–Kansas City, living with my wife in an apartment on Rockhill Road, two blocks north of one of the finest art museums in the country. The Nelson Gallery-Atkins Museum was just a short walk from our door — I passed it every day on my way to classes. Living next door to a museum of this stature was for me a dream come true. When word came in early 1975 that an international Exhibit was coming to the Nelson-Atkins, my feelings were mixed — excited, but wary of how the neighborhood would adjust to the anticipated crowds.  Those worries proved unfounded. In fact, we had no idea how fortunate we were — to find ourselves two blocks from a once-in-a-generation show, to witness a cultural event of historic significance, and to get a chance to work behind the scenes at the Nelson-Atkins.
@@ -26,15 +26,15 @@ She nodded as if she had expected that answer. Then she explained. This was diff
 
 I told her I thought I could do that. She seemed satisfied. I had the job. I was told to report at 9 p.m. the next evening and that I would be working 9 p.m. to 6 a.m. — the graveyard shift.
 
-The crowds were so large people often waited hours to get in, and they left their mark as crowds do. My task was to be part of a small team that moved through the galleries after closing, cleaning smudges from the temporary gallery walls, touching up scuff marks, restoring the exhibit space to its intended state before the next day's crowds arrived. Touch-up painting started immediately when we arrived each night so we could conclude painting as soon as possible to allow time for the paint to dry. Each of us carried a small container of paint for the touch-ups. From day one, the supervisor's instructions were clear and concise: take your time, don't rush, keep your brush dry, and err on the side of applying too little rather than too much paint. And then, with particular emphasis: do not — under any circumstances — spill paint on the red carpet. The walls could be touched up. The carpet could not.
+The crowds were so large people often waited hours to get in, and they left their mark as crowds do. My task was to be part of a small team that moved through the temporary galleries after closing, cleaning smudges from the temporary gallery walls, touching up scuff marks, restoring the exhibit space to its intended state before the next day's crowds arrived. Touch-up painting started immediately when we arrived each night so we could conclude painting as soon as possible to allow time for the paint to dry. Each of us carried a small container of paint for the touch-ups. From day one, the supervisor's instructions were clear and concise: take your time, don't rush, keep your brush dry, and err on the side of applying too little rather than too much paint. And then, with particular emphasis: do not — under any circumstances — spill paint on the red carpet. The walls could be touched up. The carpet could not.
 
 The total transformation of the Museum for the Exhibit was itself something to behold. From the outside, the Nelson Gallery looked exactly as it always had — its neoclassical facade unchanged, stately and familiar. But the moment you stepped through the front doors, you were somewhere else entirely. Temporary exhibit walls had carved the grand interior into a new series of small galleries that were connected like a maze. The galleries were painted in a warm salmon color and underfoot ran deep red carpet — together they created something wholly immersive — a world apart from the stately marble and neutral tones of the familiar Nelson-Atkins. The curators had built a new world inside the old one.
 
 The transformation was more than just visual — it was sounds from the Far East that completed the immersive journey.
 
-As you first stepped into the Museum Exhibit, you were greeted by the unique and exotic sounds of Chinese bronze bells — the otherworldly tones immediately transported visitors to another place, which was no doubt the intention. A recording of the bells played on a continuous loop, 24/7, throughout the entire Exhibit — deep, resonant, otherworldly tones that seemed to come from the walls themselves, from the air, from somewhere just out of reach. During the day, with the galleries full of visitors moving in small groups, the bells wove through the murmur of voices and the shuffle of feet to create something genuinely immersive. People were transported. You could see it on their faces.
+As you first stepped into the Museum Exhibit, you were greeted by the unique and exotic sounds of Chinese bronze bells — the magical tones immediately transported visitors to another place, which was no doubt the intention. A recording of the bells played on a continuous loop, 24/7, throughout the entire Exhibit — deep, resonant, otherworldly tones that seemed to come from the walls themselves, from the air, from somewhere just out of reach. During the day, with the galleries full of visitors moving in small groups, the bells wove through the murmur of voices and the shuffle of feet to create something genuinely immersive. People were transported. You could see it on their faces.
 
-But on the graveyard shift, the sound of the bells was something else altogether.
+But in the quiet hours of the night shift, the sound of the bells was something else altogether.
 
 Alone in the Exhibit galleries at two or three in the morning, brushing out fingerprints and smudges while ancient bronzes caught the low exhibition lighting and the bells rang on, the effect was not transcendence so much as a quiet eeriness. The artifacts did not seem diminished by the absence of an audience — if anything, they felt more present. A bronze vessel cast thousands of years before did not require my admiration to be remarkable. It simply was what it was, patient and indifferent, outlasting dynasties and oceans and whatever small concerns occupied an economics student in 1975 working the night shift at the Museum.
 
@@ -72,4 +72,4 @@ This essay was inspired in part by the Nelson-Atkins Museum of Art's "50 Years O
 
 ---
 
-*Last updated: 2026-04-02 · 15:28*
+*Last updated: 2026-04-02 · 19:37*
