@@ -2,8 +2,8 @@ body {
   font-family: Georgia, 'Times New Roman', serif;
   font-size: 18px;
   line-height: 1.75;
-  color: #3b2a1a;
-  background: #dfc8a0;
+  color: #1a2530;
+  background: #dde4ea;
   margin: 0;
   padding: 0;
 }
@@ -23,13 +23,13 @@ h1 {
 .subtitle {
   font-size: 1em;
   font-style: italic;
-  color: #555;
+  color: #4a5a66;
   margin-bottom: 0.3em;
 }
 
 .byline {
   font-size: 0.9em;
-  color: #777;
+  color: #6a7d8a;
   margin-bottom: 2.5em;
 }
 
@@ -43,7 +43,7 @@ em {
 
 hr {
   border: none;
-  border-top: 1px solid #c8a87a;
+  border-top: 1px solid #9aacba;
   margin: 3em 0;
 }
 
@@ -55,7 +55,7 @@ hr {
 .archival h2 {
   font-size: 1.4em;
   margin-bottom: 1.5em;
-  border-bottom: 1px solid #c8a87a;
+  border-bottom: 1px solid #9aacba;
   padding-bottom: 0.4em;
 }
 
@@ -74,13 +74,13 @@ hr {
   width: 100%;
   height: auto;
   display: block;
-  border: 1px solid #c8a87a;
+  border: 1px solid #9aacba;
   border-radius: 3px;
 }
 
 .gallery figcaption {
   font-size: 0.8em;
-  color: #555;
+  color: #4a5a66;
   margin-top: 0.5em;
   line-height: 1.4;
 }
@@ -99,7 +99,7 @@ hr {
 .audio-section p,
 .video-section p {
   font-size: 0.85em;
-  color: #555;
+  color: #4a5a66;
   margin-top: 0.4em;
 }
 
@@ -111,7 +111,7 @@ audio {
 video {
   width: 100%;
   height: auto;
-  border: 1px solid #c8a87a;
+  border: 1px solid #9aacba;
   border-radius: 3px;
   margin-top: 0.5em;
 }
