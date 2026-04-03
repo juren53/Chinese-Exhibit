@@ -3,10 +3,10 @@
 ### Recollections of the Exhibition of Archaeological Finds of the People's Republic of China, Nelson Gallery-Atkins Museum, 1975
 
 by Jim U'Ren
-2026-04-03 · 11:48
+2026-04-03 · 12:12
 
 
-In the spring of 1975, I was a twenty-something economics student at the University of Missouri–Kansas City, living with my wife in an apartment on Rockhill Road, two blocks north of one of the finest art museums in the country. The Nelson Gallery-Atkins Museum was just a short walk from our door — I passed it every day on my way to classes. It was a wonderful thing to live next door to a museum of this stature. When word came in early 1975 that an international Exhibit was coming to the Nelson-Atkins, my feelings were mixed — excited, but wary of how the neighborhood would adjust to the anticipated crowds.  Those worries proved unfounded. In fact, we had no idea how fortunate we were — to find ourselves two blocks from a once-in-a-generation show, to witness a cultural event of historic significance, and to get a chance to work behind the scenes at the Nelson-Atkins.
+In the spring of 1975, I was a twenty-something economics student at the University of Missouri–Kansas City, living with my wife in an apartment on Rockhill Road, two blocks north of one of the finest art museums in the country. The Nelson Gallery-Atkins Museum was just a short walk from our door — I passed it every day on my way to classes. It was a wonderful thing to live next door to a museum of this stature. When word came in early 1975 that an international exhibition was coming to the Nelson-Atkins, my feelings were mixed — excited, but wary of how the neighborhood would adjust to the anticipated activity.  Those worries proved unfounded. In fact, we had no idea how fortunate we were — to find ourselves two blocks from a once-in-a-generation show, to witness a cultural event of historic significance, and to get a chance to work behind the scenes at the Nelson-Atkins.
 
 That spring, the Nelson Gallery became the second American stop for *The Exhibition of Archaeological Finds of the People's Republic of China* — a sweeping, landmark show of cultural treasures from the East. After opening in Paris, the exhibit travelled to London, Vienna, Stockholm and Toronto. In the US, Washington saw it first. San Francisco would be the last American stop. Kansas City was scheduled to be a seven-week engagement, and in the weeks leading up, the anticipation steadily grew.
 
@@ -72,4 +72,4 @@ This essay was inspired in part by the Nelson-Atkins Museum of Art's "50 Years O
 
 ---
 
-*Last updated: 2026-04-03 · 11:48*
+*Last updated: 2026-04-03 · 12:12*
