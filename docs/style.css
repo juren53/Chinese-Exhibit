@@ -2,8 +2,8 @@ body {
   font-family: Georgia, 'Times New Roman', serif;
   font-size: 18px;
   line-height: 1.75;
-  color: #222;
-  background: #faf8f4;
+  color: #3b2a1a;
+  background: #dfc8a0;
   margin: 0;
   padding: 0;
 }
@@ -43,7 +43,7 @@ em {
 
 hr {
   border: none;
-  border-top: 1px solid #ccc;
+  border-top: 1px solid #c8a87a;
   margin: 3em 0;
 }
 
@@ -55,7 +55,7 @@ hr {
 .archival h2 {
   font-size: 1.4em;
   margin-bottom: 1.5em;
-  border-bottom: 1px solid #ccc;
+  border-bottom: 1px solid #c8a87a;
   padding-bottom: 0.4em;
 }
 
@@ -74,7 +74,7 @@ hr {
   width: 100%;
   height: auto;
   display: block;
-  border: 1px solid #ddd;
+  border: 1px solid #c8a87a;
   border-radius: 3px;
 }
 
@@ -111,7 +111,7 @@ audio {
 video {
   width: 100%;
   height: auto;
-  border: 1px solid #ddd;
+  border: 1px solid #c8a87a;
   border-radius: 3px;
   margin-top: 0.5em;
 }
