@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Theme Preview — My Nights at the Museum</title>
+  <style>
+
+    /* ── Page chrome ─────────────────────────────────────────────────────── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: #232328;
+      font-family: system-ui, -apple-system, sans-serif;
+      padding: 44px 28px 60px;
+      color: #ccc;
+    }
+
+    .page-header {
+      max-width: 1400px;
+      margin: 0 auto 36px;
+    }
+
+    .page-header h1 {
+      font-size: 1.1em;
+      font-weight: 500;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: #e0e0e0;
+      margin-bottom: 6px;
+    }
+
+    .page-header p {
+      font-size: 0.82em;
+      color: #777;
+    }
+
+    .page-header a {
+      color: #888;
+      text-decoration: underline;
+    }
+
+    /* ── Theme grid ──────────────────────────────────────────────────────── */
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(370px, 1fr));
+      gap: 22px;
+      max-width: 1400px;
+      margin: 0 auto;
+    }
+
+    /* ── Theme card shell ────────────────────────────────────────────────── */
+    .theme-card {
+      border-radius: 5px;
+      overflow: hidden;
+      box-shadow: 0 4px 24px rgba(0,0,0,0.5);
+    }
+
+    .theme-label {
+      font-family: system-ui, sans-serif;
+      font-size: 0.68em;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      padding: 9px 20px;
+      opacity: 0.55;
+    }
+
+    /* ── Card body (essay sample) ────────────────────────────────────────── */
+    .card-body {
+      font-family: Georgia, 'Times New Roman', serif;
+      padding: 28px 32px 30px;
+    }
+
+    .card-body h1 {
+      font-size: 1.35em;
+      line-height: 1.2;
+      margin-bottom: 0.2em;
+    }
+
+    .card-body .subtitle {
+      font-size: 0.78em;
+      font-style: italic;
+      margin-bottom: 0.25em;
+      opacity: 0.65;
+    }
+
+    .card-body .byline {
+      font-size: 0.72em;
+      margin-bottom: 1.6em;
+      opacity: 0.5;
+    }
+
+    .card-body p {
+      font-size: 0.87em;
+      line-height: 1.75;
+      margin-bottom: 1em;
+    }
+
+    .card-body hr {
+      border: none;
+      margin: 1.4em 0 0;
+      opacity: 0.2;
+    }
+
+    /* ══════════════════════════════════════════════════════════════════════
+       THEMES
+    ══════════════════════════════════════════════════════════════════════ */
+
+    /* 1 · Parchment (current) ─────────────────────────────────────── */
+    .theme-parchment                { background: #dfc8a0; color: #3b2a1a; }
+    .theme-parchment .theme-label   { border-bottom: 1px solid #c8a87a; }
+    .theme-parchment .card-body hr  { border-top: 1px solid #c8a87a; }
+
+    /* 2 · Ivory ───────────────────────────────────────────────────── */
+    .theme-ivory                { background: #faf8f3; color: #1c1c1c; }
+    .theme-ivory .theme-label   { border-bottom: 1px solid #d8d4cc; }
+    .theme-ivory .card-body hr  { border-top: 1px solid #ccc; }
+
+    /* 3 · Slate ───────────────────────────────────────────────────── */
+    .theme-slate                { background: #dde4ea; color: #1a2530; }
+    .theme-slate .theme-label   { border-bottom: 1px solid #b4c0cc; }
+    .theme-slate .card-body hr  { border-top: 1px solid #9aacba; }
+
+    /* 4 · Night ───────────────────────────────────────────────────── */
+    .theme-night                { background: #18181e; color: #e0d4bc; }
+    .theme-night .theme-label   { border-bottom: 1px solid #2e2e3a; }
+    .theme-night .card-body hr  { border-top: 1px solid #3a3a46; }
+
+    /* 5 · Sepia ───────────────────────────────────────────────────── */
+    .theme-sepia                { background: #c8a060; color: #1a0800; }
+    .theme-sepia .theme-label   { border-bottom: 1px solid #a07840; }
+    .theme-sepia .card-body hr  { border-top: 1px solid #a07840; }
+
+    /* 6 · Museum Wall ─────────────────────────────────────────────── */
+    .theme-museum                    { background: #f4efe6; color: #1a0505; }
+    .theme-museum .theme-label       { border-bottom: 1px solid #c8a8a0; }
+    .theme-museum .card-body h1      { color: #7a1818; }
+    .theme-museum .card-body hr      { border-top: 1px solid #7a1818; opacity: 0.35; }
+
+    /* 7 · Newsprint ───────────────────────────────────────────────── */
+    .theme-newsprint                { background: #e2ddd4; color: #0f0f0f; }
+    .theme-newsprint .theme-label   { border-bottom: 1px solid #b8b4a8; }
+    .theme-newsprint .card-body     { font-family: 'Times New Roman', Times, serif; }
+    .theme-newsprint .card-body h1  { font-size: 1.45em; letter-spacing: -0.01em; }
+    .theme-newsprint .card-body p   { line-height: 1.65; }
+    .theme-newsprint .card-body hr  { border-top: 1px solid #555; }
+
+  </style>
+</head>
+<body>
+
+<div class="page-header">
+  <h1>Theme Preview &mdash; My Nights at the Museum</h1>
+  <p>Choose a theme, then open <a href="index.html">index.html</a> to confirm. To apply, update <code>docs/style.css</code> and rebuild.</p>
+</div>
+
+<div class="grid">
+
+  <!-- 1 · Parchment (current) -->
+  <div class="theme-card theme-parchment">
+    <div class="theme-label">1 &middot; Parchment &nbsp;&#x2713; current</div>
+    <div class="card-body">
+      <h1>My Nights at the Museum</h1>
+      <p class="subtitle">Recollections of the Exhibition of Archaeological Finds of the People&rsquo;s Republic of China, Nelson Gallery-Atkins Museum, 1975</p>
+      <p class="byline">by Jim U&rsquo;Ren &nbsp;&middot;&nbsp; 2026-04-03</p>
+      <p>In the spring of 1975, I was a twenty-something economics student at the University of Missouri&ndash;Kansas City, living with my wife in an apartment on Rockhill Road, two blocks north of one of the finest art museums in the country. Living next door to a museum of this stature was for me a dream come true.</p>
+      <p>Alone in the Exhibit galleries in the still hours of the morning, brushing out fingerprints and smudges while ancient bronzes caught the low exhibition lighting and the bells rang on, the effect was not transcendence so much as a quiet eeriness. The artifacts did not seem diminished by the absence of an audience &mdash; if anything, they felt more present, more enduring.</p>
+      <hr>
+    </div>
+  </div>
+
+  <!-- 2 · Ivory -->
+  <div class="theme-card theme-ivory">
+    <div class="theme-label">2 &middot; Ivory</div>
+    <div class="card-body">
+      <h1>My Nights at the Museum</h1>
+      <p class="subtitle">Recollections of the Exhibition of Archaeological Finds of the People&rsquo;s Republic of China, Nelson Gallery-Atkins Museum, 1975</p>
+      <p class="byline">by Jim U&rsquo;Ren &nbsp;&middot;&nbsp; 2026-04-03</p>
+      <p>In the spring of 1975, I was a twenty-something economics student at the University of Missouri&ndash;Kansas City, living with my wife in an apartment on Rockhill Road, two blocks north of one of the finest art museums in the country. Living next door to a museum of this stature was for me a dream come true.</p>
+      <p>Alone in the Exhibit galleries in the still hours of the morning, brushing out fingerprints and smudges while ancient bronzes caught the low exhibition lighting and the bells rang on, the effect was not transcendence so much as a quiet eeriness. The artifacts did not seem diminished by the absence of an audience &mdash; if anything, they felt more present, more enduring.</p>
+      <hr>
+    </div>
+  </div>
+
+  <!-- 3 · Slate -->
+  <div class="theme-card theme-slate">
+    <div class="theme-label">3 &middot; Slate</div>
+    <div class="card-body">
+      <h1>My Nights at the Museum</h1>
+      <p class="subtitle">Recollections of the Exhibition of Archaeological Finds of the People&rsquo;s Republic of China, Nelson Gallery-Atkins Museum, 1975</p>
+      <p class="byline">by Jim U&rsquo;Ren &nbsp;&middot;&nbsp; 2026-04-03</p>
+      <p>In the spring of 1975, I was a twenty-something economics student at the University of Missouri&ndash;Kansas City, living with my wife in an apartment on Rockhill Road, two blocks north of one of the finest art museums in the country. Living next door to a museum of this stature was for me a dream come true.</p>
+      <p>Alone in the Exhibit galleries in the still hours of the morning, brushing out fingerprints and smudges while ancient bronzes caught the low exhibition lighting and the bells rang on, the effect was not transcendence so much as a quiet eeriness. The artifacts did not seem diminished by the absence of an audience &mdash; if anything, they felt more present, more enduring.</p>
+      <hr>
+    </div>
+  </div>
+
+  <!-- 4 · Night -->
+  <div class="theme-card theme-night">
+    <div class="theme-label">4 &middot; Night</div>
+    <div class="card-body">
+      <h1>My Nights at the Museum</h1>
+      <p class="subtitle">Recollections of the Exhibition of Archaeological Finds of the People&rsquo;s Republic of China, Nelson Gallery-Atkins Museum, 1975</p>
+      <p class="byline">by Jim U&rsquo;Ren &nbsp;&middot;&nbsp; 2026-04-03</p>
+      <p>In the spring of 1975, I was a twenty-something economics student at the University of Missouri&ndash;Kansas City, living with my wife in an apartment on Rockhill Road, two blocks north of one of the finest art museums in the country. Living next door to a museum of this stature was for me a dream come true.</p>
+      <p>Alone in the Exhibit galleries in the still hours of the morning, brushing out fingerprints and smudges while ancient bronzes caught the low exhibition lighting and the bells rang on, the effect was not transcendence so much as a quiet eeriness. The artifacts did not seem diminished by the absence of an audience &mdash; if anything, they felt more present, more enduring.</p>
+      <hr>
+    </div>
+  </div>
+
+  <!-- 5 · Sepia -->
+  <div class="theme-card theme-sepia">
+    <div class="theme-label">5 &middot; Sepia</div>
+    <div class="card-body">
+      <h1>My Nights at the Museum</h1>
+      <p class="subtitle">Recollections of the Exhibition of Archaeological Finds of the People&rsquo;s Republic of China, Nelson Gallery-Atkins Museum, 1975</p>
+      <p class="byline">by Jim U&rsquo;Ren &nbsp;&middot;&nbsp; 2026-04-03</p>
+      <p>In the spring of 1975, I was a twenty-something economics student at the University of Missouri&ndash;Kansas City, living with my wife in an apartment on Rockhill Road, two blocks north of one of the finest art museums in the country. Living next door to a museum of this stature was for me a dream come true.</p>
+      <p>Alone in the Exhibit galleries in the still hours of the morning, brushing out fingerprints and smudges while ancient bronzes caught the low exhibition lighting and the bells rang on, the effect was not transcendence so much as a quiet eeriness. The artifacts did not seem diminished by the absence of an audience &mdash; if anything, they felt more present, more enduring.</p>
+      <hr>
+    </div>
+  </div>
+
+  <!-- 6 · Museum Wall -->
+  <div class="theme-card theme-museum">
+    <div class="theme-label">6 &middot; Museum Wall</div>
+    <div class="card-body">
+      <h1>My Nights at the Museum</h1>
+      <p class="subtitle">Recollections of the Exhibition of Archaeological Finds of the People&rsquo;s Republic of China, Nelson Gallery-Atkins Museum, 1975</p>
+      <p class="byline">by Jim U&rsquo;Ren &nbsp;&middot;&nbsp; 2026-04-03</p>
+      <p>In the spring of 1975, I was a twenty-something economics student at the University of Missouri&ndash;Kansas City, living with my wife in an apartment on Rockhill Road, two blocks north of one of the finest art museums in the country. Living next door to a museum of this stature was for me a dream come true.</p>
+      <p>Alone in the Exhibit galleries in the still hours of the morning, brushing out fingerprints and smudges while ancient bronzes caught the low exhibition lighting and the bells rang on, the effect was not transcendence so much as a quiet eeriness. The artifacts did not seem diminished by the absence of an audience &mdash; if anything, they felt more present, more enduring.</p>
+      <hr>
+    </div>
+  </div>
+
+  <!-- 7 · Newsprint -->
+  <div class="theme-card theme-newsprint">
+    <div class="theme-label">7 &middot; Newsprint</div>
+    <div class="card-body">
+      <h1>My Nights at the Museum</h1>
+      <p class="subtitle">Recollections of the Exhibition of Archaeological Finds of the People&rsquo;s Republic of China, Nelson Gallery-Atkins Museum, 1975</p>
+      <p class="byline">by Jim U&rsquo;Ren &nbsp;&middot;&nbsp; 2026-04-03</p>
+      <p>In the spring of 1975, I was a twenty-something economics student at the University of Missouri&ndash;Kansas City, living with my wife in an apartment on Rockhill Road, two blocks north of one of the finest art museums in the country. Living next door to a museum of this stature was for me a dream come true.</p>
+      <p>Alone in the Exhibit galleries in the still hours of the morning, brushing out fingerprints and smudges while ancient bronzes caught the low exhibition lighting and the bells rang on, the effect was not transcendence so much as a quiet eeriness. The artifacts did not seem diminished by the absence of an audience &mdash; if anything, they felt more present, more enduring.</p>
+      <hr>
+    </div>
+  </div>
+
+</div>
+</body>
+</html>
