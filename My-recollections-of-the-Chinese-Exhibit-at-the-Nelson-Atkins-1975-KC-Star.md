@@ -42,21 +42,6 @@ Looking back on those seven weeks in the spring of 1975, I was probably too youn
 
 What I could not have known was how enduring those graveyard hours would prove to be. After more than fifty years, when I close my eyes and think back on those nights at the Museum, I can still hear the bronze bells echoing through the galleries and see the lithe, powerful figure of the Flying Horse of Gansu, and I am forever grateful for the memories the Nelson-Atkins Museum of Art gave me that spring of 1975.
 
----
-
-## Archival Materials
-
-- **The-Exhibit-Poster.png** — Official exhibit poster featuring the Galloping Horse, April 20–June 7, 1975 (courtesy of Nelson-Atkins Museum of Art Archives)
-- **The-Prancing-Horse.jpg** — Cover of the Exhibit program, *The Exhibition of Archaeological Finds of the People's Republic of China* (courtesy of Nelson-Atkins Museum of Art Archives)
-- **Lines-at-the-Museum.jpg** — Exterior photograph of the Nelson Gallery-Atkins Museum showing crowds queued outside beneath the exhibit banner (courtesy of Nelson-Atkins Museum of Art Archives)
-- **Crowds-at-the-Museum.jpg** — Interior photograph showing the packed galleries with American and Chinese flags and calligraphy banners  (courtesy of Nelson-Atkins Museum of Art Archives)
-- **Map-of-the-Exhibit.jpg** — Newspaper floor plan of the exhibition maze with artifact photographs, captioned "entrance-to-exit view of the exhibition maze" (courtesy of Nelson-Atkins Museum of Art Archives)
-- **A-Chime-of-Bronze-Bells.png** — Exhibit catalog page featuring the Western Zhou Dynasty bronze bells (courtesy of Nelson-Atkins Museum of Art Archives)
-- **Chinese_Bells.mp3** — Audio recording of Chinese bells similar to what was played at the Exhibit [courtesy of the Smithsonian Museum]
-- **VIDEO_Chinese-Exhibit-at-the-Nelson-Atkins-1975.mp4** — Video footage of visitors at the Exhibit, including a delegation from Denver Museum of Nature and Science. [courtesy of Denver Museum of Nature & Science, IV.MOV-703-3]
-- **50year-Nelson-Atkins-celebration.jpg** — Program announcement for "50 Years On: Remembering The Exhibition of the Archaeological Finds of the People's Republic of China," Spencer Art Reference Library, Nelson-Atkins Museum of Art, April 10–June 2, 2025
-
----
 
 ## Acknowledgments
 
