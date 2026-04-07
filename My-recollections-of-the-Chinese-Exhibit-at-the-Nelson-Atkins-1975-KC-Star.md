@@ -3,7 +3,7 @@
 ### Recollections of the Exhibition of Archaeological Finds of the People's Republic of China, Nelson Gallery-Atkins Museum, 1975
 
 by Jim U'Ren
-2026-04-03 · 12:12
+2026-04-06 · 21:22
 
 
 In the spring of 1975, I was a twenty-something economics student at the University of Missouri–Kansas City, living with my wife in an apartment on Rockhill Road, two blocks north of one of the finest art museums in the country. The Nelson Gallery-Atkins Museum was just a short walk from our door — I passed it every day on my way to classes. It was a wonderful thing to live next door to a museum of this stature. When word came in early 1975 that an international exhibition was coming to the Nelson-Atkins, we had no idea how fortunate we were — to find ourselves two blocks from a once-in-a-generation show, to witness a cultural event of historic significance, and to get a chance to work behind the scenes at the Nelson-Atkins.
@@ -34,9 +34,9 @@ During the day, with galleries full of visitors, the bells wove through the murm
 
 Alone in the galleries in the wee hours of the morning, brushing out fingerprints while ancient bronzes caught the low exhibition lighting and the bells rang on, the effect was not transcendence so much as a quiet eeriness. The artifacts felt more present, more enduring. A bronze vessel cast thousands of years before did not require my admiration to be remarkable. It simply was what it was, patient and indifferent, outlasting dynasties and oceans and whatever small concerns occupied an economics student working the night shift.
 
-The best part — the part that made the graveyard shift worth more than the pay — was that I got to really see the Exhibit. The crown jewel was the Galloping Horse, a Han Dynasty bronze of breathtaking lightness and motion, a horse in full stride with one hoof balanced impossibly on the back of a swallow in flight. During public hours it drew such crowds that getting close was no small feat, and if you managed it, you found yourself too near to take it in properly. You came away with a glimpse, a sliver of an impression.
+The best part — the part that made the graveyard shift worth more than the pay — was that I got to really see, really experience the Exhibit. The crown jewel was the Galloping Horse, a Han Dynasty bronze of breathtaking lightness and motion, a horse in full stride with one hoof balanced impossibly on the back of a swallow in flight. During public hours it drew such crowds that getting close was no small feat, and if you managed it, you found yourself too near to take it in properly. You came away with a glimpse, a sliver of an impression.
 
-But in the peaceful, solitary hours we worked, the Galloping Horse was ours. No crowds, no jockeying for position. You could stand back and let your eyes find the thing whole — the impossible balance of it, the sculptor's audacity in rendering speed and weightlessness in bronze. You could move around it, approach slowly, step back again. You could simply look, for as long as you wanted, in silence broken only by the bells. That was the unexpected gift of those hours at the Museum.
+But in the peaceful, solitary hours we worked, the Galloping Horse was ours. No crowds, no jockeying for position. As we moved between our assigned tasks restoring the Exhibit to its pristine state, you could take a moment. Stand back and let your eyes find the thing whole — the impossible balance of it, the sculptor's artistic genius in rendering speed and weightlessness in bronze. You could move around it, approach slowly, step back again. You could simply look, for as long as you wanted, in silence broken only by the bells. That was the unexpected gift of those hours at the Museum.
 
 Looking back on those seven weeks in the spring of 1975, I was probably too young to fully grasp the historical significance of what I was witnessing — but I sensed something extraordinary was happening. The Exhibition was a historic diplomatic moment, but equally important, living proof of how art brings people and nations together. Ancient artifacts had crossed the Pacific bearing four thousand years of civilization, arriving in the American heartland at a turning point in history. But at the end of my shift, I was still twenty-something, the pay was modest, and by six in the morning I was exhausted and mostly thinking about breakfast and sleep.
 
@@ -49,4 +49,4 @@ This essay was inspired in part by the Nelson-Atkins Museum of Art's "50 Years O
 
 ---
 
-*Last updated: 2026-04-03 · 12:12*
+*Last updated: 2026-04-06 · 21:22*
