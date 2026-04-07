@@ -22,7 +22,7 @@ She had read through my application and noted that I had some interior painting 
 
 I told her what I had been taught: never paint with a dry brush. A dry brush leaves streaks and misses.
 
-She nodded as if she had expected that answer. Then she explained. The exhibit walls needed to look perfect when the doors opened each morning, but the large number of visitors were leaving marks, smudges and fingerprints. Normal cleaning solutions did more harm than good. Paint had to cover the traffic marks, but had to be fully dry before the first visitors arrived. The technique was deliberate and precise — with barely any paint on the brush, just enough to cover a smudge or a fingerprint, working carefully into the surface so that it dried quickly and left no trace of having been applied at all. The goal was invisibility.
+She nodded as if she had expected that answer. Then she explained. The exhibit walls needed to look perfect when the doors opened each morning, but the large number of visitors were leaving marks, smudges and fingerprints. Normal cleaning solutions did more harm than good. Paint had to cover the traffic marks, but had to be fully dry before the first visitors arrived. The dry brush technique was deliberate and precise — with barely any paint on the brush, just enough to cover a smudge or a fingerprint, working carefully into the surface so that it dried quickly and left no trace of having been applied at all. The goal was invisibility.
 
 I told her I thought I could do that. She seemed satisfied. I had the job. I was told to report at 9 p.m. the next evening and that I would be working 9 p.m. to 6 a.m. — the graveyard shift.
 
