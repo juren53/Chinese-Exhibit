@@ -3,14 +3,14 @@
 ### Recollections of the Exhibition of Archaeological Finds of the People's Republic of China, Nelson Gallery-Atkins Museum, 1975
 
 by Jim U'Ren
-2026-04-06 · 22:11
+2026-04-06 · 22:15
 
 
 In the spring of 1975, I was a twenty-something economics student at the University of Missouri–Kansas City, living with my wife in an apartment on Rockhill Road, two blocks north of one of the finest art museums in the country. The Nelson Gallery-Atkins Museum was just a short walk from our door — I passed it every day on my way to classes. It was a wonderful thing to live next door to a museum of this stature. When word came in early 1975 that an international exhibition was coming to the Nelson-Atkins, we had no idea how fortunate we were — to find ourselves two blocks from a once-in-a-generation show, to witness a cultural event of historic significance, and to get a chance to work behind the scenes at the Nelson-Atkins.
 
 That spring, the Nelson Gallery became the second American stop for *The Exhibition of Archaeological Finds of the People's Republic of China* — a sweeping, landmark show of cultural treasures from the East. After opening in Paris, the exhibit travelled to London, Vienna, Stockholm and Toronto before Washington. Kansas City was scheduled for a seven-week engagement, and in the weeks leading up, the anticipation steadily grew.
 
-The collection arrived in early April 1975, in the midst of the Cold War and at a moment when official US policy towards China was changing. Americans were intrigued by a civilization that had been, for a generation, mostly invisible to Western eyes. The ancient artifacts, jade ornaments, silk textiles, and bronze sculptures were not merely beautiful objects — they were dispatches from another world, arriving at a moment when the distance between worlds was, for the first time in decades, beginning to close.
+The collection arrived in early April 1975, in the midst of the Cold War and at a moment when official US policy towards China was starting to change. Americans were intrigued by a civilization that had been, for a generation, mostly invisible to Western eyes. The ancient artifacts, jade ornaments, silk textiles, and bronze sculptures were not merely beautiful objects — they were dispatches from another world, arriving at a moment when the distance between worlds was, for the first time in decades, beginning to close.
 
 I learned about work at the Nelson as word spread among students at UMKC that the museum was bringing on extra staff for the Exhibition. I jumped at the chance to work at the Museum I passed every day, rushed to fill out an application, and got an interview within a few days.
 
@@ -49,4 +49,4 @@ This essay was inspired in part by the Nelson-Atkins Museum of Art's "50 Years O
 
 ---
 
-*Last updated: 2026-04-06 · 22:11*
+*Last updated: 2026-04-06 · 22:15*
