@@ -28,7 +28,7 @@ I told her I thought I could do that. She seemed satisfied. I had the job. I was
 
 The total transformation of the Museum for the Exhibit was itself something to behold. The moment you stepped through the front doors, you were somewhere else entirely. Temporary exhibit walls had carved the grand interior into a new series of small galleries connected like a maze. The galleries were painted in a warm salmon color with deep red carpet underfoot — together creating something wholly transportive, a world apart from the majestic marble and neutral tones of the familiar Nelson-Atkins. Completing the journey: the sounds of Chinese bronze bells — deep, resonant, otherworldly tones playing on a continuous loop, 24/7, throughout the entire Exhibit.
 
-During the day, with galleries full of visitors, the bells wove through the murmur of voices and the shuffle of feet to create something genuinely immersive. But in the quiet hours of the night shift, the sound was something else altogether.
+During the day, with galleries full of visitors, the bells wove through the murmur of voices and the shuffle of feet to create something genuinely immersive. But in the quiet hours of the night shift, the sounds were something else altogether.
 
 Alone in the galleries in the wee hours of the morning, brushing out fingerprints while ancient bronzes caught the low exhibition lighting and the bells rang on, the effect was not transcendence so much as a quiet eeriness. The artifacts felt more present, more enduring. A bronze vessel cast thousands of years before did not require my admiration to be remarkable. It simply was what it was, patient and indifferent, outlasting dynasties and oceans and whatever small concerns occupied an economics student working the night shift.
 
