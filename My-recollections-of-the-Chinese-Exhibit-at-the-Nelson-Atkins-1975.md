@@ -3,7 +3,7 @@
 ### Recollections of the Exhibition of Archaeological Finds of the People's Republic of China, Nelson Gallery-Atkins Museum, 1975
 
 by Jim U'Ren
-2026-04-03 · 12:12
+2026-04-09 · 02:50
 
 
 In the spring of 1975, I was a twenty-something economics student at the University of Missouri–Kansas City, living with my wife in an apartment on Rockhill Road, two blocks north of one of the finest art museums in the country. The Nelson Gallery-Atkins Museum was just a short walk from our door — I passed it every day on my way to classes. It was a wonderful thing to live next door to a museum of this stature. When word came in early 1975 that an international exhibition was coming to the Nelson-Atkins, my feelings were mixed — excited, but wary of how the neighborhood would adjust to the anticipated activity.  Those worries proved unfounded. In fact, we had no idea how fortunate we were — to find ourselves two blocks from a once-in-a-generation show, to witness a cultural event of historic significance, and to get a chance to work behind the scenes at the Nelson-Atkins.
@@ -58,7 +58,8 @@ What I could not have known was how enduring those graveyard hours would prove t
 - **The-Prancing-Horse.jpg** — Cover of the Exhibit program, *The Exhibition of Archaeological Finds of the People's Republic of China* (courtesy of Nelson-Atkins Museum of Art Archives)
 - **Lines-at-the-Museum.jpg** — Exterior photograph of the Nelson Gallery-Atkins Museum showing crowds queued outside beneath the exhibit banner (courtesy of Nelson-Atkins Museum of Art Archives)
 - **Crowds-at-the-Museum.jpg** — Interior photograph showing the packed galleries with American and Chinese flags and calligraphy banners  (courtesy of Nelson-Atkins Museum of Art Archives)
-- **Map-of-the-Exhibit.jpg** — Newspaper floor plan of the exhibition maze with artifact photographs, captioned "entrance-to-exit view of the exhibition maze" (courtesy of Nelson-Atkins Museum of Art Archives)
+- **Map-of-the-Exhibit.jpg** — The front page of the April 19, 1975, Kansas City Times featured a floor plan of the exhibition.  
+  (courtesy of Nelson-Atkins Museum of Art Archives and the Kansas City Star)
 - **A-Chime-of-Bronze-Bells.png** — Exhibit catalog page featuring the Western Zhou Dynasty bronze bells (courtesy of Nelson-Atkins Museum of Art Archives)
 - **Chinese_Bells.mp3** — Audio recording of Chinese bells similar to what was played at the Exhibit [courtesy of the Smithsonian Museum]
 - **VIDEO_Chinese-Exhibit-at-the-Nelson-Atkins-1975.mp4** — Video footage of visitors at the Exhibit, including a delegation from Denver Museum of Nature and Science. [courtesy of Denver Museum of Nature & Science, IV.MOV-703-3]
@@ -72,4 +73,4 @@ This essay was inspired in part by the Nelson-Atkins Museum of Art's "50 Years O
 
 ---
 
-*Last updated: 2026-04-03 · 12:12*
+*Last updated: 2026-04-09 · 02:50*
