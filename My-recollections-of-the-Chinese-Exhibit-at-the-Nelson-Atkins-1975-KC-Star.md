@@ -18,7 +18,7 @@ When I arrived, a dignified, nicely dressed woman greeted me. She looked me over
 
 She was pleasant but measured as she asked me the typical interview questions in an atypical setting. At one point she stopped, turned to me, and said plainly: *You know, this is not just another after-hours janitorial job. This is the Chinese Exhibit at the Nelson-Atkins.* I nodded and thought, good. I didn't want a janitorial job — I wanted to work inside this museum.
 
-She had read through my application and noted that I had some interior painting experience from summer jobs. She told me that touch-up painting of the exhibit walls would be part of the work — and then she asked me a question I was not expecting: Did I know how to paint with a dry brush?
+She had read through my application and noted that I had some interior painting experience from summer jobs. She explained that touch-up painting of the exhibit walls would be part of the work — and then asked me a question I was not expecting: Did I know how to paint with a dry brush?
 
 I told her I had been taught: never paint with a dry brush. A dry brush leaves streaks and misses.
 
