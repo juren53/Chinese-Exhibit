@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pandoc --from markdown+smart --to plain --wrap=auto --columns=72 \"My-recollections-of-the-Chinese-Exhibit-at-the-Nelson-Atkins-1975-KC-Star.md\" -o \"My-recollections-of-the-Chinese-Exhibit-at-the-Nelson-Atkins-1975-KC-Star.txt\")"
+    ]
+  }
+}
