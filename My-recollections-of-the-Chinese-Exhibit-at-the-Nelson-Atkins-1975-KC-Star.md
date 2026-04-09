@@ -3,7 +3,7 @@
 ### Recollections of the Exhibition of Archaeological Finds of the People's Republic of China, Nelson Gallery-Atkins Museum, 1975
 
 by Jim U'Ren
-2026-04-08 · 20:29
+2026-04-08 · 21:35
 
 
 In the spring of 1975, I was a twenty-something economics student at the University of Missouri–Kansas City, living with my wife in an apartment on Rockhill Road, two blocks north of one of the finest art museums in the country. The Nelson Gallery-Atkins Museum was just a short walk from our door — I passed it every day on my way to classes. It was a wonderful thing to live next door to a museum of this stature. When word came in early 1975 that an international exhibition was coming to the Nelson-Atkins, we had no idea how fortunate we were — to find ourselves two blocks from a once-in-a-generation show, to witness a cultural event of historic significance, and to get a chance to work behind the scenes at the Nelson-Atkins.
@@ -24,7 +24,7 @@ I responded I had been taught: never paint with a dry brush. A dry brush leaves 
 
 She nodded as if she had expected that answer. Then she explained. The exhibit walls needed to look perfect when the doors opened each morning, but the large number of visitors was leaving marks, smudges and fingerprints. Normal cleaning solutions did more harm than good. Paint had to cover the traffic marks, but had to be fully dry before the first visitors arrived. The dry brush technique was deliberate and precise — with barely any paint on the brush, just enough to cover a smudge or a fingerprint, working carefully into the surface so that it dried quickly and left no trace of having been applied at all. The goal was invisibility.
 
-I told her I thought I could do that. She seemed satisfied. I had the job. I was told to report at 9 p.m. the next evening and that I would be working 9 p.m. to 6 a.m. — the graveyard shift. I joined a small team that moved through the temporary galleries after closing, removing smudges from the gallery walls, touching up scuff marks, restoring the exhibit space before the next day's crowds arrived. The supervisor's instructions were clear: take your time, don't rush, keep your brush dry, err on the side of too little rather than too much paint. And then, with particular emphasis: do not — under any circumstances — spill paint on the red carpet. The walls could be touched up. The carpet could not.
+I told her I thought I could do that. She seemed satisfied. I had the job. I was to report at 9 p.m. the next evening and that I would be working 9 p.m. to 6 a.m. — the graveyard shift. I joined a small team that moved through the temporary galleries after closing, removing smudges from the gallery walls, touching up scuff marks, restoring the exhibit space before the next day's crowds arrived. The supervisor's instructions were clear: take your time, don't rush, keep your brush dry, err on the side of too little rather than too much paint. And then, with particular emphasis: do not — under any circumstances — spill paint on the red carpet. The walls could be touched up. The carpet could not.
 
 The total transformation of the Museum for the Exhibit was itself something to behold. The moment you stepped through the front doors, you were somewhere else entirely. Temporary exhibit walls had carved the grand interior into a new series of small galleries connected like a maze. The galleries were painted in a warm salmon color with deep red carpet underfoot — together creating something wholly transportive, a world apart from the majestic marble and neutral tones of the familiar Nelson-Atkins. Completing the journey: the sounds of Chinese bronze bells — deep, resonant, otherworldly tones playing on a continuous loop, 24/7, throughout the entire Exhibit.
 
@@ -47,4 +47,4 @@ This essay was inspired in part by the Nelson-Atkins Museum of Art's "50 Years O
 
 ---
 
-*Last updated: 2026-04-08 · 20:29*
+*Last updated: 2026-04-08 · 21:35*
