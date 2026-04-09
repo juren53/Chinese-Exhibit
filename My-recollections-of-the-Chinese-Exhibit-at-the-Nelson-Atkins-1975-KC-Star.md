@@ -3,7 +3,7 @@
 ### Recollections of the Exhibition of Archaeological Finds of the People's Republic of China, Nelson Gallery-Atkins Museum, 1975
 
 by Jim U'Ren
-2026-04-08 · 19:55
+2026-04-08 · 20:29
 
 
 In the spring of 1975, I was a twenty-something economics student at the University of Missouri–Kansas City, living with my wife in an apartment on Rockhill Road, two blocks north of one of the finest art museums in the country. The Nelson Gallery-Atkins Museum was just a short walk from our door — I passed it every day on my way to classes. It was a wonderful thing to live next door to a museum of this stature. When word came in early 1975 that an international exhibition was coming to the Nelson-Atkins, we had no idea how fortunate we were — to find ourselves two blocks from a once-in-a-generation show, to witness a cultural event of historic significance, and to get a chance to work behind the scenes at the Nelson-Atkins.
@@ -14,13 +14,13 @@ The collection arrived in early April 1975, in the midst of the Cold War and at 
 
 Word spread around the UMKC campus that the Nelson was bringing on extra staff for the Exhibition. I jumped at the chance to work at the Museum I passed every day, rushed to fill out an application, and got an interview within a few days.
 
-When I arrived, I was greeted by a dignified, nicely dressed woman who looked me over with calm, appraising eyes and said simply: follow me. For the next two hours, she conducted an interview while we did light gardening on the south side of the Museum — deadheading flowers, pulling the occasional weed, moving through the well-maintained garden at an unhurried pace while she asked her questions. It was the most unusual job interview I have ever had, before or since.
+When I arrived, a dignified, nicely dressed woman greeted me. She looked me over with calm, appraising eyes and said simply: follow me. For the next two hours, she conducted an interview while we did light gardening on the south side of the Museum — deadheading flowers, pulling the occasional weed, moving through the well-maintained garden at an unhurried pace while she asked her questions. The interview was the most unusual  I have ever had, before or since.
 
 She was pleasant but measured as she asked me the typical interview questions in an atypical setting. At one point she stopped, turned to me, and said plainly: *You know, this is not just another after-hours janitorial job. This is the Chinese Exhibit at the Nelson-Atkins.* I nodded and thought, good. I didn't want a janitorial job — I wanted to work inside this museum.
 
 She had read through my application and noted that I had some interior painting experience from summer jobs. She told me that touch-up painting of the exhibit walls would be part of the work — and then she asked me a question I was not expecting: Did I know how to paint with a dry brush?
 
-I told her what I had been taught: never paint with a dry brush. A dry brush leaves streaks and misses.
+I told her I had been taught: never paint with a dry brush. A dry brush leaves streaks and misses.
 
 She nodded as if she had expected that answer. Then she explained. The exhibit walls needed to look perfect when the doors opened each morning, but the large number of visitors was leaving marks, smudges and fingerprints. Normal cleaning solutions did more harm than good. Paint had to cover the traffic marks, but had to be fully dry before the first visitors arrived. The dry brush technique was deliberate and precise — with barely any paint on the brush, just enough to cover a smudge or a fingerprint, working carefully into the surface so that it dried quickly and left no trace of having been applied at all. The goal was invisibility.
 
@@ -47,4 +47,4 @@ This essay was inspired in part by the Nelson-Atkins Museum of Art's "50 Years O
 
 ---
 
-*Last updated: 2026-04-08 · 19:55*
+*Last updated: 2026-04-08 · 20:29*
