@@ -20,7 +20,7 @@ She was pleasant but measured as she asked me the typical interview questions in
 
 She had read through my application and noted that I had some interior painting experience from summer jobs. She explained that touch-up painting of the exhibit walls would be part of the work — and then asked me a question I was not expecting: Did I know how to paint with a dry brush?
 
-I told her I had been taught: never paint with a dry brush. A dry brush leaves streaks and misses.
+I responded I had been taught: never paint with a dry brush. A dry brush leaves streaks and misses.
 
 She nodded as if she had expected that answer. Then she explained. The exhibit walls needed to look perfect when the doors opened each morning, but the large number of visitors was leaving marks, smudges and fingerprints. Normal cleaning solutions did more harm than good. Paint had to cover the traffic marks, but had to be fully dry before the first visitors arrived. The dry brush technique was deliberate and precise — with barely any paint on the brush, just enough to cover a smudge or a fingerprint, working carefully into the surface so that it dried quickly and left no trace of having been applied at all. The goal was invisibility.
 
