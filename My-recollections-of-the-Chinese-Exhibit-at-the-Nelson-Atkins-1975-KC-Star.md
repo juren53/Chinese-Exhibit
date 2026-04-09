@@ -3,7 +3,7 @@
 ### Recollections of the Exhibition of Archaeological Finds of the People's Republic of China, Nelson Gallery-Atkins Museum, 1975
 
 by Jim U'Ren
-2026-04-08 · 12:22
+2026-04-08 · 19:55
 
 
 In the spring of 1975, I was a twenty-something economics student at the University of Missouri–Kansas City, living with my wife in an apartment on Rockhill Road, two blocks north of one of the finest art museums in the country. The Nelson Gallery-Atkins Museum was just a short walk from our door — I passed it every day on my way to classes. It was a wonderful thing to live next door to a museum of this stature. When word came in early 1975 that an international exhibition was coming to the Nelson-Atkins, we had no idea how fortunate we were — to find ourselves two blocks from a once-in-a-generation show, to witness a cultural event of historic significance, and to get a chance to work behind the scenes at the Nelson-Atkins.
@@ -12,7 +12,7 @@ That spring, the Nelson Gallery became the second American stop for *The Exhibit
 
 The collection arrived in early April 1975, in the midst of the Cold War and at a moment when official US policy towards China was starting to change. Americans were curious and intrigued by a civilization that had been, for a generation, mostly invisible to Western eyes. The ancient artifacts, jade ornaments, silk textiles, and bronze sculptures were not merely beautiful objects — they were dispatches from another world, arriving at a moment when the distance between worlds was, for the first time in decades, beginning to close.
 
-I learned about work at the Nelson as word spread among students at UMKC that the museum was bringing on extra staff for the Exhibition. I jumped at the chance to work at the Museum I passed every day, rushed to fill out an application, and got an interview within a few days.
+Word spread around the UMKC campus that the Nelson was bringing on extra staff for the Exhibition. I jumped at the chance to work at the Museum I passed every day, rushed to fill out an application, and got an interview within a few days.
 
 When I arrived, I was greeted by a dignified, nicely dressed woman who looked me over with calm, appraising eyes and said simply: follow me. For the next two hours, she conducted an interview while we did light gardening on the south side of the Museum — deadheading flowers, pulling the occasional weed, moving through the well-maintained garden at an unhurried pace while she asked her questions. It was the most unusual job interview I have ever had, before or since.
 
@@ -47,4 +47,4 @@ This essay was inspired in part by the Nelson-Atkins Museum of Art's "50 Years O
 
 ---
 
-*Last updated: 2026-04-08 · 12:22*
+*Last updated: 2026-04-08 · 19:55*
