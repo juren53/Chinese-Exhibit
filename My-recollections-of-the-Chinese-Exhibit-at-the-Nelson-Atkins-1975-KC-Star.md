@@ -3,14 +3,14 @@
 ### Recollections of the Exhibition of Archaeological Finds of the People's Republic of China, Nelson Gallery-Atkins Museum, 1975
 
 by Jim U'Ren
-2026-04-10 · 09:00
+2026-04-10 · 11:59
 
 
 In the spring of 1975, I was a twenty-something economics student at the University of Missouri–Kansas City, living with my wife in an apartment on Rockhill Road, two blocks north of one of the finest art museums in the country. The Nelson Gallery-Atkins Museum was just a short walk from our door — I passed it every day on my way to classes. We enjoyed living next door to a museum of this stature. When word came in early 1975 that an international exhibition would soon open at the Nelson-Atkins, we had no idea how fortunate we were — to find ourselves two blocks from a once-in-a-generation show, to witness a cultural event of historic significance, and to get a chance to work behind the scenes at the Nelson-Atkins.
 
-That spring, the Nelson Gallery became the second American stop for *The Exhibition of Archaeological Finds of the People's Republic of China* — a sweeping, landmark show of cultural treasures from the East. After opening in Paris, the exhibit travelled to London, Vienna, Stockholm and Toronto before reaching Washington. Kansas City prepared for a seven-week engagement, and in the weeks leading up, the anticipation steadily grew.
+That spring, the Nelson Gallery became the second American stop for *The Exhibition of Archaeological Finds of the People's Republic of China* — a sweeping, landmark show of cultural treasures from the East. After opening in Paris, the exhibit traveled to London, Vienna, Stockholm and Toronto before reaching Washington. Kansas City prepared for a seven-week engagement, and in the weeks leading up, the anticipation steadily grew.
 
-The collection arrived in early April 1975, in the midst of the Cold War and at a moment when official US policy towards China began to pivot. Americans were curious and intrigued by a civilization that had been, for a generation, mostly invisible to Western eyes. The ancient artifacts, jade ornaments, silk textiles, and bronze sculptures were not merely beautiful objects — they were dispatches from another world, arriving at a moment when the distance between worlds was, for the first time in decades, beginning to close.
+The collection arrived in early April 1975, in the midst of the Cold War and at a moment when official US policy toward China began to pivot. Americans were curious and intrigued by a civilization that had been, for a generation, mostly invisible to Western eyes. The ancient artifacts, jade ornaments, silk textiles, and bronze sculptures were not merely beautiful objects — they were dispatches from another world, arriving at a moment when the distance between worlds was, for the first time in decades, beginning to close.
 
 Word spread around the UMKC campus that the Nelson sought extra staff for the Exhibition. I jumped at the chance to work at the Museum around the corner, rushed to fill out an application, and got an interview within a few days.
 
@@ -24,9 +24,9 @@ I responded I had been taught: never paint with a dry brush. A dry brush leaves 
 
 She nodded as if she had expected that answer. Then she explained. The exhibit walls needed to look perfect when the doors opened each morning, but the large number of visitors were leaving marks, smudges and fingerprints. Normal cleaning solutions did more harm than good. Paint was needed to cover the traffic marks, but it needed to be fully dry before the first visitors arrived. The dry brush technique required a deliberate and precise touch — with barely any paint on the brush, just enough to cover a smudge or a fingerprint, working carefully into the surface so that it dried quickly and left no trace of having been applied at all. The goal: invisibility and restoration.
 
-I said, I could do that. She seemed satisfied. I had the job. I would report at 9 p.m. the next evening and that I would be working 9 p.m. to 6 a.m. — the graveyard shift. I joined a small team that moved through the temporary galleries after closing, removing smudges from the gallery walls, touching up scuff marks, restoring the exhibit space before the next day's crowds arrived. The supervisor's instructions were clear: take your time, don't rush, keep your brush dry, err on the side of too little rather than too much paint. And then, with particular emphasis: do not — under any circumstances — spill paint on the red carpet. The walls could be touched up. The carpet could not.
+I said, I could do that. She seemed satisfied. I had the job. I would report at 9 p.m. the next evening and work 9 p.m. to 6 a.m. — the graveyard shift. I joined a small team that moved through the temporary galleries after closing, removing smudges from the gallery walls, touching up scuff marks, restoring the exhibit space before the next day's crowds arrived. The supervisor's instructions were clear: take your time, don't rush, keep your brush dry, err on the side of too little rather than too much paint. And then, with particular emphasis: do not — under any circumstances — spill paint on the red carpet. The walls could be touched up. The carpet could not.
 
-The complete transformation of the Museum for the Exhibit stood as a sight to behold. The moment you stepped through the front doors, you were somewhere else entirely. Temporary exhibit walls carved the grand interior into a new series of smaller galleries connected like a maze. The galleries were painted in a warm salmon color with deep red carpet underfoot — together creating something wholly transportive, a world apart from the majestic marble and neutral tones of the familiar Nelson-Atkins. Completing the journey: the sounds of Chinese bronze bells — deep, resonant, otherworldly tones playing on a continuous loop, 24/7, throughout the entire Exhibit.
+The complete transformation of the Museum for the Exhibit was a sight to behold. The moment you stepped through the front doors, you were somewhere else entirely. Temporary exhibit walls carved the grand interior into a new series of smaller galleries connected like a maze. The galleries were painted in a warm salmon color with deep red carpet underfoot — together creating something wholly transportive, a world apart from the majestic marble and neutral tones of the familiar Nelson-Atkins. Completing the journey: the sounds of Chinese bronze bells — deep, resonant, otherworldly tones playing on a continuous loop, 24/7, throughout the entire Exhibit.
 
 During the day, with galleries full of visitors, the bells accompanied the murmur of voices and the shuffle of feet to create a unique and captivating experience. But in the quiet hours of the night shift, the sounds were something else altogether.
 
@@ -47,4 +47,4 @@ This essay was inspired in part by the Nelson-Atkins Museum of Art's "50 Years O
 
 ---
 
-*Last updated: 2026-04-10 · 09:00*
+*Last updated: 2026-04-10 · 11:59*
