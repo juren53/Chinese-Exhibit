@@ -12,7 +12,7 @@ That spring, the Nelson Gallery became the second American stop for *The Exhibit
 
 The collection arrived in early April 1975, in the midst of the Cold War and at a moment when official US policy towards China began to pivot. Americans were curious and intrigued by a civilization that had been, for a generation, mostly invisible to Western eyes. The ancient artifacts, jade ornaments, silk textiles, and bronze sculptures were not merely beautiful objects — they were dispatches from another world, arriving at a moment when the distance between worlds was, for the first time in decades, beginning to close.
 
-Word spread around the UMKC campus that the Nelson sought extra staff for the Exhibition. I jumped at the chance to work at the Museum I lived around the corner from, rushed to fill out an application, and got an interview within a few days.
+Word spread around the UMKC campus that the Nelson sought extra staff for the Exhibition. I jumped at the chance to work at the Museum around the corner, rushed to fill out an application, and got an interview within a few days.
 
 When I arrived, a dignified, nicely dressed woman greeted me. She looked me over with calm, appraising eyes and said simply: follow me. For the next two hours, she conducted an interview while we did light gardening on the south side of the Museum — deadheading flowers, pulling the occasional weed, moving through the well-maintained garden at an unhurried pace while she asked her questions. The interview ranks as the most unusual I have ever had, before or since.
 
