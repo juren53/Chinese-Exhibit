@@ -3,7 +3,7 @@
 ### Recollections of the Exhibition of Archaeological Finds of the People's Republic of China, Nelson Gallery-Atkins Museum, 1975
 
 by Jim U'Ren
-2026-04-09 · 09:30
+2026-04-10 · 04:30
 
 
 In the spring of 1975, I was a twenty-something economics student at the University of Missouri–Kansas City, living with my wife in an apartment on Rockhill Road, two blocks north of one of the finest art museums in the country. The Nelson Gallery-Atkins Museum was just a short walk from our door — I passed it every day on my way to classes. We enjoyed living next door to a museum of this stature. When word came in early 1975 that an international exhibition would soon open at the Nelson-Atkins, we had no idea how fortunate we were — to find ourselves two blocks from a once-in-a-generation show, to witness a cultural event of historic significance, and to get a chance to work behind the scenes at the Nelson-Atkins.
@@ -26,9 +26,9 @@ She nodded as if she had expected that answer. Then she explained. The exhibit w
 
 I said, I could do that. She seemed satisfied. I had the job. I would report at 9 p.m. the next evening and that I would be working 9 p.m. to 6 a.m. — the graveyard shift. I joined a small team that moved through the temporary galleries after closing, removing smudges from the gallery walls, touching up scuff marks, restoring the exhibit space before the next day's crowds arrived. The supervisor's instructions were clear: take your time, don't rush, keep your brush dry, err on the side of too little rather than too much paint. And then, with particular emphasis: do not — under any circumstances — spill paint on the red carpet. The walls could be touched up. The carpet could not.
 
-The total transformation of the Museum for the Exhibit stood as a sight to behold. The moment you stepped through the front doors, you were somewhere else entirely. Temporary exhibit walls had carved the grand interior into a new series of smaller galleries connected like a maze. The galleries were painted in a warm salmon color with deep red carpet underfoot — together creating something wholly transportive, a world apart from the majestic marble and neutral tones of the familiar Nelson-Atkins. Completing the journey: the sounds of Chinese bronze bells — deep, resonant, otherworldly tones playing on a continuous loop, 24/7, throughout the entire Exhibit.
+The complete transformation of the Museum for the Exhibit stood as a sight to behold. The moment you stepped through the front doors, you were somewhere else entirely. Temporary exhibit walls carved the grand interior into a new series of smaller galleries connected like a maze. The galleries were painted in a warm salmon color with deep red carpet underfoot — together creating something wholly transportive, a world apart from the majestic marble and neutral tones of the familiar Nelson-Atkins. Completing the journey: the sounds of Chinese bronze bells — deep, resonant, otherworldly tones playing on a continuous loop, 24/7, throughout the entire Exhibit.
 
-During the day, with galleries full of visitors, the bells wove through the murmur of voices and the shuffle of feet to create something genuinely immersive. But in the quiet hours of the night shift, the sounds were something else altogether.
+During the day, with galleries full of visitors, the bells accompanied the murmur of voices and the shuffle of feet to create a unique and captivating experience. But in the quiet hours of the night shift, the sounds were something else altogether.
 
 Alone in the galleries in the wee hours of the morning, brushing out fingerprints while ancient bronzes caught the soft exhibition lighting and the bells rang on, the effect was not transcendence so much as a quiet eeriness. The artifacts felt more present, more enduring. A bronze vessel cast thousands of years before did not require my admiration to be remarkable. It simply was what it was, patient and indifferent, outlasting dynasties and oceans and whatever small concerns occupied an economics student working the night shift.
 
@@ -47,4 +47,4 @@ This essay was inspired in part by the Nelson-Atkins Museum of Art's "50 Years O
 
 ---
 
-*Last updated: 2026-04-09 · 09:30*
+*Last updated: 2026-04-10 · 04:30*
