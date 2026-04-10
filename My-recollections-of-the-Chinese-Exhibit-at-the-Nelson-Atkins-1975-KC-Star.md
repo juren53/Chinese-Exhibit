@@ -3,7 +3,7 @@
 ### Recollections of the Exhibition of Archaeological Finds of the People's Republic of China, Nelson Gallery-Atkins Museum, 1975
 
 by Jim U'Ren
-2026-04-10 · 04:30
+2026-04-10 · 09:00
 
 
 In the spring of 1975, I was a twenty-something economics student at the University of Missouri–Kansas City, living with my wife in an apartment on Rockhill Road, two blocks north of one of the finest art museums in the country. The Nelson Gallery-Atkins Museum was just a short walk from our door — I passed it every day on my way to classes. We enjoyed living next door to a museum of this stature. When word came in early 1975 that an international exhibition would soon open at the Nelson-Atkins, we had no idea how fortunate we were — to find ourselves two blocks from a once-in-a-generation show, to witness a cultural event of historic significance, and to get a chance to work behind the scenes at the Nelson-Atkins.
@@ -30,7 +30,7 @@ The complete transformation of the Museum for the Exhibit stood as a sight to be
 
 During the day, with galleries full of visitors, the bells accompanied the murmur of voices and the shuffle of feet to create a unique and captivating experience. But in the quiet hours of the night shift, the sounds were something else altogether.
 
-Alone in the galleries in the wee hours of the morning, brushing out fingerprints while ancient bronzes caught the soft exhibition lighting and the bells rang on, the effect was not transcendence so much as a quiet eeriness. The artifacts felt more present, more enduring. A bronze vessel cast thousands of years before did not require my admiration to be remarkable. It simply was what it was, patient and indifferent, outlasting dynasties and oceans and whatever small concerns occupied an economics student working the night shift.
+Alone in the galleries in the wee hours of the morning, brushing out fingerprints while ancient bronzes caught the soft exhibition lighting and the bells rang on, the effect was not transcendence so much as a quiet faraway awareness. The artifacts felt more present, more enduring. A bronze vessel cast thousands of years before did not require my admiration to be remarkable. It simply was what it was, patient and indifferent, outlasting dynasties and oceans and whatever small concerns occupied an economics student working the night shift.
 
 The best part — the part that made the graveyard shift worth more than the pay — was that I got to really see, really experience the Exhibit. The crown jewel was the Galloping Horse, a Han Dynasty bronze of breathtaking lightness and motion, a horse in full stride with one hoof balanced impossibly on the back of a swallow in flight. During public hours it drew such crowds that getting close proved no small feat, and if you managed it, you found yourself too near to take it in properly. You came away with a glimpse, a sliver of an impression.
 
@@ -47,4 +47,4 @@ This essay was inspired in part by the Nelson-Atkins Museum of Art's "50 Years O
 
 ---
 
-*Last updated: 2026-04-10 · 04:30*
+*Last updated: 2026-04-10 · 09:00*
