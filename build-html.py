@@ -8,7 +8,7 @@ import subprocess
 import re
 from pathlib import Path
 
-MD  = "My-recollections-of-the-Chinese-Exhibit-at-the-Nelson-Atkins-1975.md"
+MD  = "My-recollections-of-the-Chinese-Exhibit-at-the-Nelson-Atkins-1975-KC-Star.md"
 OUT = "docs/index.html"
 
 # ── Read source ──────────────────────────────────────────────────────────────
@@ -50,7 +50,7 @@ body_md = '\n'.join(body_lines).rstrip()
 # ── Convert essay body to HTML via pandoc ────────────────────────────────────
 result = subprocess.run(
     ['pandoc', '--from', 'markdown+smart', '--to', 'html'],
-    input=body_md, capture_output=True, text=True, check=True
+    input=body_md, capture_output=True, text=True, check=True, encoding='utf-8'
 )
 body_html = result.stdout.strip()
 
