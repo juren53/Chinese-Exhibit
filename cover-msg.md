@@ -2,7 +2,7 @@ I've been published! Well not really, but here is a link to a article I wrote th
 
 https://www.kansascity.com/opinion/readers-opinion/guest-commentary/article315521111.html
 
-Here is the link to the full article with all the attachments, most of which the Star could not or would not publish [also, no ads!!]:
+Here is a link to the full article without ads but with all the attachments that the Star could not or would not publish:
 
 https://juren53.github.io/Chinese-Exhibit/
 
