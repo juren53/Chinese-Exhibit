@@ -1,3 +1,5 @@
+Subject: My article in the KC Star (plus the full version with photos)
+
 I've been published! Well, sort of — here is a link to a guest commentary I wrote that the KC Star published:
 
 https://www.kansascity.com/opinion/readers-opinion/guest-commentary/article315521111.html
