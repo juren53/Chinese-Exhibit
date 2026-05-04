@@ -1,4 +1,4 @@
-As promised, here is the link to the article that the KC Star published:
+I've been published! Well not really, but here is a link to a article I wrote that the KC Star published:
 
 https://www.kansascity.com/opinion/readers-opinion/guest-commentary/article315521111.html
 
